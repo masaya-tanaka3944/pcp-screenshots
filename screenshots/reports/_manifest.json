@@ -1,276 +1,324 @@
 {
-  "captured_at": "2026-02-05T10:32:04.833116",
+  "captured_at": "2026-02-05T10:45:52.060106",
   "base_url": "https://raw.githubusercontent.com/masaya-tanaka3944/pcp-screenshots/main/screenshots/reports",
   "images": {
     "create_contract_notice": {
       "filename": "create_contract_notice.png",
-      "captured_at": "2026-02-05T10:17:44.893560",
+      "captured_at": "2026-02-05T10:46:08.984808",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_demand_letter": {
       "filename": "create_demand_letter.png",
-      "captured_at": "2026-02-05T10:17:51.760302",
+      "captured_at": "2026-02-05T10:46:15.835061",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_billing_receipt": {
       "filename": "create_billing_receipt.png",
-      "captured_at": "2026-02-05T10:17:52.864598",
+      "captured_at": "2026-02-05T10:46:16.937790",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_agency_invoice": {
       "filename": "create_agency_invoice.png",
-      "captured_at": "2026-02-05T10:17:54.004456",
+      "captured_at": "2026-02-05T10:46:18.076690",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_reward_invoice": {
       "filename": "create_reward_invoice.png",
-      "captured_at": "2026-02-05T10:17:55.151562",
+      "captured_at": "2026-02-05T10:46:19.213663",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_usage_fee_summary": {
       "filename": "create_usage_fee_summary.png",
-      "captured_at": "2026-02-05T10:17:45.471013",
+      "captured_at": "2026-02-05T10:46:09.562779",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "MultipleProductsRewardInvoicePDFCreator": {
       "filename": "MultipleProductsRewardInvoicePDFCreator.png",
-      "captured_at": "2026-02-05T10:17:30.520999",
+      "captured_at": "2026-02-05T10:45:54.690096",
       "source": "template",
       "file_path": "apps/reward/api.py"
     },
     "RewardInvoiceFeePDFCreator": {
       "filename": "RewardInvoiceFeePDFCreator.png",
-      "captured_at": "2026-02-05T10:17:31.089401",
+      "captured_at": "2026-02-05T10:45:55.252372",
       "source": "template",
       "file_path": "apps/reward/api.py"
     },
     "GasRewardInvoiceFeePDFCreator": {
       "filename": "GasRewardInvoiceFeePDFCreator.png",
-      "captured_at": "2026-02-05T10:17:31.655886",
+      "captured_at": "2026-02-05T10:45:55.817869",
       "source": "template",
       "file_path": "apps/reward/api.py"
     },
     "HikariRewardInvoiceFeePDFCreator": {
       "filename": "HikariRewardInvoiceFeePDFCreator.png",
-      "captured_at": "2026-02-05T10:17:32.222012",
+      "captured_at": "2026-02-05T10:45:56.377920",
       "source": "template",
       "file_path": "apps/reward/api.py"
     },
     "KurashiSupportRewardInvoiceFeePDFCreator": {
       "filename": "KurashiSupportRewardInvoiceFeePDFCreator.png",
-      "captured_at": "2026-02-05T10:17:32.788964",
+      "captured_at": "2026-02-05T10:45:56.942266",
       "source": "template",
       "file_path": "apps/reward/api.py"
     },
     "WiFiRewardInvoiceFeePDFCreator": {
       "filename": "WiFiRewardInvoiceFeePDFCreator.png",
-      "captured_at": "2026-02-05T10:17:33.355402",
+      "captured_at": "2026-02-05T10:45:57.501229",
       "source": "template",
       "file_path": "apps/reward/api.py"
     },
     "AccountTransferPDFBuilder": {
       "filename": "AccountTransferPDFBuilder.png",
-      "captured_at": "2026-02-05T10:32:05.712868",
+      "captured_at": "2026-02-05T10:45:58.079986",
       "source": "template",
       "file_path": "apps/posting/account_transfer.py"
     },
     "DemandLetterPDFBuilder": {
       "filename": "DemandLetterPDFBuilder.png",
-      "captured_at": "2026-02-05T10:17:34.509971",
+      "captured_at": "2026-02-05T10:45:58.658164",
       "source": "template",
       "file_path": "apps/posting/demand_letter.py"
     },
     "OwnerReportPDFBuilder": {
       "filename": "OwnerReportPDFBuilder.png",
-      "captured_at": "2026-02-05T10:17:35.088123",
+      "captured_at": "2026-02-05T10:45:59.227515",
       "source": "template",
       "file_path": "apps/posting/owner_report.py"
     },
     "UsageFeePDFBuilder": {
       "filename": "UsageFeePDFBuilder.png",
-      "captured_at": "2026-02-05T10:17:35.675750",
+      "captured_at": "2026-02-05T10:45:59.804707",
       "source": "template",
       "file_path": "apps/posting/usage_fee.py"
     },
     "VacancyPlanUsageBillingInvoiceBuilder": {
       "filename": "VacancyPlanUsageBillingInvoiceBuilder.png",
-      "captured_at": "2026-02-05T10:17:36.254095",
+      "captured_at": "2026-02-05T10:46:00.376524",
       "source": "template",
       "file_path": "apps/billing/vacancy_plan_usage_billing.py"
     },
     "SumasapoVacancyPlanUsageBillingInvoiceBuilder": {
       "filename": "SumasapoVacancyPlanUsageBillingInvoiceBuilder.png",
-      "captured_at": "2026-02-05T10:17:36.827170",
+      "captured_at": "2026-02-05T10:46:00.941370",
       "source": "template",
       "file_path": "apps/billing/vacancy_plan_usage_billing.py"
     },
     "BillingSummaryPDFCreator": {
       "filename": "BillingSummaryPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:42.575935",
+      "captured_at": "2026-02-05T10:46:06.683902",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_fix_usage_fee_pdf_file.py"
     },
     "BillingSummaryManyPointOnlyPDFCreator": {
       "filename": "BillingSummaryManyPointOnlyPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:37.988517",
+      "captured_at": "2026-02-05T10:46:02.095199",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_customer_invoice_pdf_file.py"
     },
     "BillingPDFCreator": {
       "filename": "BillingPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:38.562053",
+      "captured_at": "2026-02-05T10:46:02.671670",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_customer_invoice_pdf_file.py"
     },
     "GasBillingPDFCreator": {
       "filename": "GasBillingPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:39.131382",
+      "captured_at": "2026-02-05T10:46:03.241799",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_customer_invoice_pdf_file.py"
     },
     "HikariBillingPDFCreator": {
       "filename": "HikariBillingPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:39.711040",
+      "captured_at": "2026-02-05T10:46:03.820267",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_customer_invoice_pdf_file.py"
     },
     "WiFiBillingPDFCreator": {
       "filename": "WiFiBillingPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:40.284515",
+      "captured_at": "2026-02-05T10:46:04.388424",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_customer_invoice_pdf_file.py"
     },
     "PsupoBillingPDFCreator": {
       "filename": "PsupoBillingPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:40.846470",
+      "captured_at": "2026-02-05T10:46:04.952006",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_customer_invoice_pdf_file.py"
     },
     "AgencyInvoiceReportPDFCreator": {
       "filename": "AgencyInvoiceReportPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:41.422432",
+      "captured_at": "2026-02-05T10:46:05.527705",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_org_invoice_pdf_file.py"
     },
     "RewardInvoiceReportPDFCreator": {
       "filename": "RewardInvoiceReportPDFCreator.png",
-      "captured_at": "2026-02-05T10:17:41.996291",
+      "captured_at": "2026-02-05T10:46:06.097945",
       "source": "template",
       "file_path": "apps/billing/management/commands/bulk_create_org_invoice_pdf_file.py"
     },
     "AgencyInvoiceReportBuilder": {
       "filename": "AgencyInvoiceReportBuilder.png",
-      "captured_at": "2026-02-05T10:17:43.158948",
+      "captured_at": "2026-02-05T10:46:07.260129",
       "source": "template",
       "file_path": "apps/billing/billing/api.py"
     },
     "SumasapoConsolidatedInvoiceReportBuilder": {
       "filename": "SumasapoConsolidatedInvoiceReportBuilder.png",
-      "captured_at": "2026-02-05T10:17:43.739485",
+      "captured_at": "2026-02-05T10:46:07.836961",
       "source": "template",
       "file_path": "apps/billing/billing/api.py"
     },
     "TokyuHousingLeaseInvoiceReportBuilder": {
       "filename": "TokyuHousingLeaseInvoiceReportBuilder.png",
-      "captured_at": "2026-02-05T10:17:44.314352",
+      "captured_at": "2026-02-05T10:46:08.411807",
       "source": "template",
       "file_path": "apps/billing/billing/api.py"
     },
     "create_usage_fee_summary2": {
       "filename": "create_usage_fee_summary2.png",
-      "captured_at": "2026-02-05T10:17:46.039253",
+      "captured_at": "2026-02-05T10:46:10.126912",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_usage_fee_particular_special_discount": {
       "filename": "create_usage_fee_particular_special_discount.png",
-      "captured_at": "2026-02-05T10:17:46.602522",
+      "captured_at": "2026-02-05T10:46:10.695038",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_usage_fee_detail": {
       "filename": "create_usage_fee_detail.png",
-      "captured_at": "2026-02-05T10:17:47.184251",
+      "captured_at": "2026-02-05T10:46:11.275196",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_owner_report1": {
       "filename": "create_owner_report1.png",
-      "captured_at": "2026-02-05T10:17:47.752667",
+      "captured_at": "2026-02-05T10:46:11.843935",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_owner_report2": {
       "filename": "create_owner_report2.png",
-      "captured_at": "2026-02-05T10:17:48.321996",
+      "captured_at": "2026-02-05T10:46:12.411242",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_gas_usage_fee_detail": {
       "filename": "create_gas_usage_fee_detail.png",
-      "captured_at": "2026-02-05T10:17:48.889042",
+      "captured_at": "2026-02-05T10:46:12.970647",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_hikari_usage_fee_detail": {
       "filename": "create_hikari_usage_fee_detail.png",
-      "captured_at": "2026-02-05T10:17:49.462777",
+      "captured_at": "2026-02-05T10:46:13.546092",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_wifi_usage_fee_detail": {
       "filename": "create_wifi_usage_fee_detail.png",
-      "captured_at": "2026-02-05T10:17:50.035469",
+      "captured_at": "2026-02-05T10:46:14.114603",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_kurashi_support_usage_fee_detail": {
       "filename": "create_kurashi_support_usage_fee_detail.png",
-      "captured_at": "2026-02-05T10:17:50.605959",
+      "captured_at": "2026-02-05T10:46:14.678591",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_account_transfer_entry": {
       "filename": "create_account_transfer_entry.png",
-      "captured_at": "2026-02-05T10:31:55.655685",
+      "captured_at": "2026-02-05T10:46:15.259409",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_demand_letter_by_fukushima_printing": {
       "filename": "create_demand_letter_by_fukushima_printing.png",
-      "captured_at": "2026-02-05T10:17:52.321348",
+      "captured_at": "2026-02-05T10:46:16.402350",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_billing_receipt_new_format": {
       "filename": "create_billing_receipt_new_format.png",
-      "captured_at": "2026-02-05T10:17:53.432767",
+      "captured_at": "2026-02-05T10:46:17.504399",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_vacancy_plan_usage_invoice": {
       "filename": "create_vacancy_plan_usage_invoice.png",
-      "captured_at": "2026-02-05T10:17:54.579976",
+      "captured_at": "2026-02-05T10:46:18.643765",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_multiple_products_reward_invoice": {
       "filename": "create_multiple_products_reward_invoice.png",
-      "captured_at": "2026-02-05T10:17:55.726353",
+      "captured_at": "2026-02-05T10:46:19.784243",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
     "create_reward_invoice_fee": {
       "filename": "create_reward_invoice_fee.png",
-      "captured_at": "2026-02-05T10:17:56.297709",
+      "captured_at": "2026-02-05T10:46:20.345084",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
+    },
+    "WiFiContractNoticePdfGenerator": {
+      "filename": "WiFiContractNoticePdfGenerator.png",
+      "captured_at": "2026-02-05T10:45:53.539645",
+      "source": "template",
+      "file_path": "apps/wifi/api/api.py"
+    },
+    "HikariContractNoticePdfGenerator": {
+      "filename": "HikariContractNoticePdfGenerator.png",
+      "captured_at": "2026-02-05T10:45:54.119934",
+      "source": "template",
+      "file_path": "apps/hikari/posting/api.py"
+    },
+    "create_pgae_number": {
+      "filename": "create_pgae_number.png",
+      "captured_at": "2026-02-05T10:46:20.883057",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    },
+    "create_footer": {
+      "filename": "create_footer.png",
+      "captured_at": "2026-02-05T10:46:21.421111",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    },
+    "bulk_create_customer_invoice_pdf_file": {
+      "filename": "bulk_create_customer_invoice_pdf_file.png",
+      "captured_at": "2026-02-05T10:46:21.998695",
+      "source": "template",
+      "file_path": "apps/billing/management/commands/bulk_create_customer_invoice_pdf_file.py"
+    },
+    "bulk_create_org_invoice_pdf_file": {
+      "filename": "bulk_create_org_invoice_pdf_file.png",
+      "captured_at": "2026-02-05T10:46:22.571725",
+      "source": "template",
+      "file_path": "apps/billing/management/commands/bulk_create_org_invoice_pdf_file.py"
+    },
+    "generate_and_upload_owner_reports": {
+      "filename": "generate_and_upload_owner_reports.png",
+      "captured_at": "2026-02-05T10:46:23.139252",
+      "source": "template",
+      "file_path": "apps/billing/management/commands/generate_and_upload_owner_reports.py"
+    },
+    "generate_and_upload_wifi_contract_notice": {
+      "filename": "generate_and_upload_wifi_contract_notice.png",
+      "captured_at": "2026-02-05T10:46:23.715637",
+      "source": "template",
+      "file_path": "apps/wifi/management/commands/generate_and_upload_wifi_contract_notice.py"
     }
   }
 }
