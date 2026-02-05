@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-05T10:17:29.001504",
+  "captured_at": "2026-02-05T10:32:04.833116",
   "base_url": "https://raw.githubusercontent.com/masaya-tanaka3944/pcp-screenshots/main/screenshots/reports",
   "images": {
     "create_contract_notice": {
@@ -76,7 +76,7 @@
     },
     "AccountTransferPDFBuilder": {
       "filename": "AccountTransferPDFBuilder.png",
-      "captured_at": "2026-02-05T10:17:33.927263",
+      "captured_at": "2026-02-05T10:32:05.712868",
       "source": "template",
       "file_path": "apps/posting/account_transfer.py"
     },
@@ -238,7 +238,7 @@
     },
     "create_account_transfer_entry": {
       "filename": "create_account_transfer_entry.png",
-      "captured_at": "2026-02-05T10:17:51.171938",
+      "captured_at": "2026-02-05T10:31:55.655685",
       "source": "template",
       "file_path": "apps/posting/individual_pdf.py"
     },
