@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-05T13:06:16.063231",
+  "captured_at": "2026-02-05T13:26:39.946833",
   "base_url": "https://raw.githubusercontent.com/masaya-tanaka3944/pcp-screenshots/main/screenshots/reports",
   "images": {
     "create_contract_notice": {
@@ -333,762 +333,669 @@
       "file_path": "apps/download_document/api.py"
     },
     "download_document_api__BillingCsvAdapter": {
-      "filename": "download_document_api__BillingCsvAdapter.csv",
-      "captured_at": "2026-02-05T13:06:16.347937",
+      "filename": "download_document_api__BillingCsvAdapter.png",
+      "captured_at": "2026-02-05T13:26:41.210441",
       "source": "csv_preview",
       "file_path": "apps/download_document/api.py",
-      "class_name": "BillingCsvAdapter",
-      "format": "csv"
+      "class_name": "BillingCsvAdapter"
     },
     "download_document_api__OwnerReportForChintaiKakumeiAdapter": {
-      "filename": "download_document_api__OwnerReportForChintaiKakumeiAdapter.csv",
-      "captured_at": "2026-02-05T13:06:16.348415",
+      "filename": "download_document_api__OwnerReportForChintaiKakumeiAdapter.png",
+      "captured_at": "2026-02-05T13:26:41.566930",
       "source": "csv_preview",
       "file_path": "apps/download_document/api.py",
-      "class_name": "OwnerReportForChintaiKakumeiAdapter",
-      "format": "csv"
+      "class_name": "OwnerReportForChintaiKakumeiAdapter"
     },
     "download_document_api__RewardCsvAdapter": {
       "filename": "download_document_api__RewardCsvAdapter.png",
-      "captured_at": "2026-02-05T13:06:16.729358",
+      "captured_at": "2026-02-05T13:26:41.954277",
       "source": "zip_preview",
       "file_path": "apps/download_document/api.py",
       "class_name": "RewardCsvAdapter"
     },
     "download_document_api__ConsumptionOverCsvAdapter": {
-      "filename": "download_document_api__ConsumptionOverCsvAdapter.csv",
-      "captured_at": "2026-02-05T13:06:16.729662",
+      "filename": "download_document_api__ConsumptionOverCsvAdapter.png",
+      "captured_at": "2026-02-05T13:26:42.306187",
       "source": "csv_preview",
       "file_path": "apps/download_document/api.py",
-      "class_name": "ConsumptionOverCsvAdapter",
-      "format": "csv"
+      "class_name": "ConsumptionOverCsvAdapter"
     },
     "wifi_bulk_download__CSVDownloader": {
-      "filename": "wifi_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.729927",
+      "filename": "wifi_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:42.673098",
       "source": "csv_preview",
       "file_path": "apps/wifi/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "wifi_rewards__WiFiRewardCsvCreator": {
-      "filename": "wifi_rewards__WiFiRewardCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:16.730147",
+      "filename": "wifi_rewards__WiFiRewardCsvCreator.png",
+      "captured_at": "2026-02-05T13:26:43.023509",
       "source": "csv_preview",
       "file_path": "apps/wifi/rewards.py",
-      "class_name": "WiFiRewardCsvCreator",
-      "format": "csv"
+      "class_name": "WiFiRewardCsvCreator"
     },
     "wifi_rewards__WiFiRewardDetailCsvCreator": {
-      "filename": "wifi_rewards__WiFiRewardDetailCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:16.730345",
+      "filename": "wifi_rewards__WiFiRewardDetailCsvCreator.png",
+      "captured_at": "2026-02-05T13:26:43.375204",
       "source": "csv_preview",
       "file_path": "apps/wifi/rewards.py",
-      "class_name": "WiFiRewardDetailCsvCreator",
-      "format": "csv"
+      "class_name": "WiFiRewardDetailCsvCreator"
     },
     "wifi_contract_csvio_utils__WiFiCsvDownloader": {
-      "filename": "wifi_contract_csvio_utils__WiFiCsvDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.730532",
+      "filename": "wifi_contract_csvio_utils__WiFiCsvDownloader.png",
+      "captured_at": "2026-02-05T13:26:43.725357",
       "source": "csv_preview",
       "file_path": "apps/wifi/contract/csvio/utils.py",
-      "class_name": "WiFiCsvDownloader",
-      "format": "csv"
+      "class_name": "WiFiCsvDownloader"
     },
     "wifi_termination_bulk_download__CSVDownloader": {
-      "filename": "wifi_termination_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.730679",
+      "filename": "wifi_termination_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:44.083771",
       "source": "csv_preview",
       "file_path": "apps/wifi/termination/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "wifi_api_wifi_contract_csv_builder__WiFiContractStartCsvBuilder": {
-      "filename": "wifi_api_wifi_contract_csv_builder__WiFiContractStartCsvBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.730820",
+      "filename": "wifi_api_wifi_contract_csv_builder__WiFiContractStartCsvBuilder.png",
+      "captured_at": "2026-02-05T13:26:44.431491",
       "source": "csv_preview",
       "file_path": "apps/wifi/api/wifi_contract_csv_builder.py",
-      "class_name": "WiFiContractStartCsvBuilder",
-      "format": "csv"
+      "class_name": "WiFiContractStartCsvBuilder"
     },
     "wifi_api_wifi_contract_csv_builder__WiFiContractEndCSVBuilder": {
-      "filename": "wifi_api_wifi_contract_csv_builder__WiFiContractEndCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.730999",
+      "filename": "wifi_api_wifi_contract_csv_builder__WiFiContractEndCSVBuilder.png",
+      "captured_at": "2026-02-05T13:26:44.782695",
       "source": "csv_preview",
       "file_path": "apps/wifi/api/wifi_contract_csv_builder.py",
-      "class_name": "WiFiContractEndCSVBuilder",
-      "format": "csv"
+      "class_name": "WiFiContractEndCSVBuilder"
     },
     "gas_api__GasBillingCSVDownloader": {
-      "filename": "gas_api__GasBillingCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.731279",
+      "filename": "gas_api__GasBillingCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:45.133987",
       "source": "csv_preview",
       "file_path": "apps/gas/api.py",
-      "class_name": "GasBillingCSVDownloader",
-      "format": "csv"
+      "class_name": "GasBillingCSVDownloader"
     },
     "gas_api__GasCustomerBillingCSVDownloader": {
-      "filename": "gas_api__GasCustomerBillingCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.731506",
+      "filename": "gas_api__GasCustomerBillingCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:45.485473",
       "source": "csv_preview",
       "file_path": "apps/gas/api.py",
-      "class_name": "GasCustomerBillingCSVDownloader",
-      "format": "csv"
+      "class_name": "GasCustomerBillingCSVDownloader"
     },
     "gas_api__GasContractStartCsvBuilder": {
-      "filename": "gas_api__GasContractStartCsvBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.731705",
+      "filename": "gas_api__GasContractStartCsvBuilder.png",
+      "captured_at": "2026-02-05T13:26:45.835053",
       "source": "csv_preview",
       "file_path": "apps/gas/api.py",
-      "class_name": "GasContractStartCsvBuilder",
-      "format": "csv"
+      "class_name": "GasContractStartCsvBuilder"
     },
     "gas_api__GasContractEndCsvBuilder": {
-      "filename": "gas_api__GasContractEndCsvBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.732137",
+      "filename": "gas_api__GasContractEndCsvBuilder.png",
+      "captured_at": "2026-02-05T13:26:46.186128",
       "source": "csv_preview",
       "file_path": "apps/gas/api.py",
-      "class_name": "GasContractEndCsvBuilder",
-      "format": "csv"
+      "class_name": "GasContractEndCsvBuilder"
     },
     "gas_rewards__GasRewardCsvCreator": {
-      "filename": "gas_rewards__GasRewardCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:16.732331",
+      "filename": "gas_rewards__GasRewardCsvCreator.png",
+      "captured_at": "2026-02-05T13:26:46.536400",
       "source": "csv_preview",
       "file_path": "apps/gas/rewards.py",
-      "class_name": "GasRewardCsvCreator",
-      "format": "csv"
+      "class_name": "GasRewardCsvCreator"
     },
     "gas_rewards__NCreateGasRewardCsvCreator": {
-      "filename": "gas_rewards__NCreateGasRewardCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:16.732478",
+      "filename": "gas_rewards__NCreateGasRewardCsvCreator.png",
+      "captured_at": "2026-02-05T13:26:46.886923",
       "source": "csv_preview",
       "file_path": "apps/gas/rewards.py",
-      "class_name": "NCreateGasRewardCsvCreator",
-      "format": "csv"
+      "class_name": "NCreateGasRewardCsvCreator"
     },
     "gas_turnon_identifywaiting__IdentifyWaitingCSVDownloader": {
-      "filename": "gas_turnon_identifywaiting__IdentifyWaitingCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.732624",
+      "filename": "gas_turnon_identifywaiting__IdentifyWaitingCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:47.238477",
       "source": "csv_preview",
       "file_path": "apps/gas/turnon/identifywaiting.py",
-      "class_name": "IdentifyWaitingCSVDownloader",
-      "format": "csv"
+      "class_name": "IdentifyWaitingCSVDownloader"
     },
     "gas_external_csvio_applications_csv__TokyoApplicationsCSVDownloader": {
-      "filename": "gas_external_csvio_applications_csv__TokyoApplicationsCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.732835",
+      "filename": "gas_external_csvio_applications_csv__TokyoApplicationsCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:47.586324",
       "source": "csv_preview",
       "file_path": "apps/gas/external/csvio/applications_csv.py",
-      "class_name": "TokyoApplicationsCSVDownloader",
-      "format": "csv"
+      "class_name": "TokyoApplicationsCSVDownloader"
     },
     "gas_external_csvio_applications_csv__ChubuApplicationsCSVDownloader": {
-      "filename": "gas_external_csvio_applications_csv__ChubuApplicationsCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.733042",
+      "filename": "gas_external_csvio_applications_csv__ChubuApplicationsCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:47.930390",
       "source": "csv_preview",
       "file_path": "apps/gas/external/csvio/applications_csv.py",
-      "class_name": "ChubuApplicationsCSVDownloader",
-      "format": "csv"
+      "class_name": "ChubuApplicationsCSVDownloader"
     },
     "gas_external_csvio_applications_csv__KansaiApplicationsCSVDownloader": {
-      "filename": "gas_external_csvio_applications_csv__KansaiApplicationsCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.733254",
+      "filename": "gas_external_csvio_applications_csv__KansaiApplicationsCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:48.284051",
       "source": "csv_preview",
       "file_path": "apps/gas/external/csvio/applications_csv.py",
-      "class_name": "KansaiApplicationsCSVDownloader",
-      "format": "csv"
+      "class_name": "KansaiApplicationsCSVDownloader"
     },
     "gas_external_csvio_applications_csv__KyushuApplicationsCSVDownloader": {
-      "filename": "gas_external_csvio_applications_csv__KyushuApplicationsCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.733450",
+      "filename": "gas_external_csvio_applications_csv__KyushuApplicationsCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:48.636260",
       "source": "csv_preview",
       "file_path": "apps/gas/external/csvio/applications_csv.py",
-      "class_name": "KyushuApplicationsCSVDownloader",
-      "format": "csv"
+      "class_name": "KyushuApplicationsCSVDownloader"
     },
     "gas_external_csvio_termination_registration_csv__TerminationRegistrationCSVCreator": {
-      "filename": "gas_external_csvio_termination_registration_csv__TerminationRegistrationCSVCreator.csv",
-      "captured_at": "2026-02-05T13:06:16.733658",
+      "filename": "gas_external_csvio_termination_registration_csv__TerminationRegistrationCSVCreator.png",
+      "captured_at": "2026-02-05T13:26:48.987186",
       "source": "csv_preview",
       "file_path": "apps/gas/external/csvio/termination_registration_csv.py",
-      "class_name": "TerminationRegistrationCSVCreator",
-      "format": "csv"
+      "class_name": "TerminationRegistrationCSVCreator"
     },
     "hikari_api__HikariContractStartCsvBuilder": {
-      "filename": "hikari_api__HikariContractStartCsvBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.734330",
+      "filename": "hikari_api__HikariContractStartCsvBuilder.png",
+      "captured_at": "2026-02-05T13:26:49.345695",
       "source": "csv_preview",
       "file_path": "apps/hikari/api.py",
-      "class_name": "HikariContractStartCsvBuilder",
-      "format": "csv"
+      "class_name": "HikariContractStartCsvBuilder"
     },
     "hikari_api__HikariContractEndCsvBuilder": {
-      "filename": "hikari_api__HikariContractEndCsvBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.734528",
+      "filename": "hikari_api__HikariContractEndCsvBuilder.png",
+      "captured_at": "2026-02-05T13:26:49.703853",
       "source": "csv_preview",
       "file_path": "apps/hikari/api.py",
-      "class_name": "HikariContractEndCsvBuilder",
-      "format": "csv"
+      "class_name": "HikariContractEndCsvBuilder"
     },
     "hikari_bulk_download__CSVDownloader": {
-      "filename": "hikari_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.734753",
+      "filename": "hikari_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:50.078721",
       "source": "csv_preview",
       "file_path": "apps/hikari/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "hikari_termination_bulk_download__CSVDownloader": {
-      "filename": "hikari_termination_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.734944",
+      "filename": "hikari_termination_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:50.428286",
       "source": "csv_preview",
       "file_path": "apps/hikari/termination/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "hikari_supplypoint_rewards__HikariRewardCsvCreator": {
-      "filename": "hikari_supplypoint_rewards__HikariRewardCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:16.735153",
+      "filename": "hikari_supplypoint_rewards__HikariRewardCsvCreator.png",
+      "captured_at": "2026-02-05T13:26:50.770920",
       "source": "csv_preview",
       "file_path": "apps/hikari/supplypoint/rewards.py",
-      "class_name": "HikariRewardCsvCreator",
-      "format": "csv"
+      "class_name": "HikariRewardCsvCreator"
     },
     "hikari_supplypoint_rewards__HikariRewardDetailCsvCreator": {
-      "filename": "hikari_supplypoint_rewards__HikariRewardDetailCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:16.735359",
+      "filename": "hikari_supplypoint_rewards__HikariRewardDetailCsvCreator.png",
+      "captured_at": "2026-02-05T13:26:51.129435",
       "source": "csv_preview",
       "file_path": "apps/hikari/supplypoint/rewards.py",
-      "class_name": "HikariRewardDetailCsvCreator",
-      "format": "csv"
+      "class_name": "HikariRewardDetailCsvCreator"
     },
     "hikari_supplypoint_csvio_hikari__SampleCSVDownloader": {
-      "filename": "hikari_supplypoint_csvio_hikari__SampleCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.735508",
+      "filename": "hikari_supplypoint_csvio_hikari__SampleCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:51.470928",
       "source": "csv_preview",
       "file_path": "apps/hikari/supplypoint/csvio/hikari.py",
-      "class_name": "SampleCSVDownloader",
-      "format": "csv"
+      "class_name": "SampleCSVDownloader"
     },
     "hikari_contract_explanatory_statement_csvio__SampleCSVDownloader": {
-      "filename": "hikari_contract_explanatory_statement_csvio__SampleCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.735628",
+      "filename": "hikari_contract_explanatory_statement_csvio__SampleCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:51.821844",
       "source": "csv_preview",
       "file_path": "apps/hikari/contract_explanatory_statement/csvio.py",
-      "class_name": "SampleCSVDownloader",
-      "format": "csv"
+      "class_name": "SampleCSVDownloader"
     },
     "billing_automation_management_commands_output_billing_list_csv__CSVBuilder": {
-      "filename": "billing_automation_management_commands_output_billing_list_csv__CSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.735764",
+      "filename": "billing_automation_management_commands_output_billing_list_csv__CSVBuilder.png",
+      "captured_at": "2026-02-05T13:26:52.180242",
       "source": "csv_preview",
       "file_path": "apps/billing_automation/management/commands/output_billing_list_csv.py",
-      "class_name": "CSVBuilder",
-      "format": "csv"
+      "class_name": "CSVBuilder"
     },
     "download_document_api__ConsumptionOverCsvDownloader": {
-      "filename": "download_document_api__ConsumptionOverCsvDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.735887",
+      "filename": "download_document_api__ConsumptionOverCsvDownloader.png",
+      "captured_at": "2026-02-05T13:26:52.533855",
       "source": "csv_preview",
       "file_path": "apps/download_document/api.py",
-      "class_name": "ConsumptionOverCsvDownloader",
-      "format": "csv"
+      "class_name": "ConsumptionOverCsvDownloader"
     },
     "user_mypage_api__ConsumptionCSVDownloader": {
-      "filename": "user_mypage_api__ConsumptionCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.736014",
+      "filename": "user_mypage_api__ConsumptionCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:52.887905",
       "source": "csv_preview",
       "file_path": "apps/user/mypage/api.py",
-      "class_name": "ConsumptionCSVDownloader",
-      "format": "csv"
+      "class_name": "ConsumptionCSVDownloader"
     },
     "hubspot_management_commands_import_hubspot_csv__HubspotCustomerCSVBuilder": {
-      "filename": "hubspot_management_commands_import_hubspot_csv__HubspotCustomerCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.736145",
+      "filename": "hubspot_management_commands_import_hubspot_csv__HubspotCustomerCSVBuilder.png",
+      "captured_at": "2026-02-05T13:26:53.229421",
       "source": "csv_preview",
       "file_path": "apps/hubspot/management/commands/import_hubspot_csv.py",
-      "class_name": "HubspotCustomerCSVBuilder",
-      "format": "csv"
+      "class_name": "HubspotCustomerCSVBuilder"
     },
     "sending_customer_csvio__CSVDownloader": {
-      "filename": "sending_customer_csvio__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.736346",
+      "filename": "sending_customer_csvio__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:53.590620",
       "source": "csv_preview",
       "file_path": "apps/sending_customer/csvio.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "sending_customer_csvio__SendingContractNoticeCSVDownloader": {
-      "filename": "sending_customer_csvio__SendingContractNoticeCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.736603",
+      "filename": "sending_customer_csvio__SendingContractNoticeCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:53.946623",
       "source": "csv_preview",
       "file_path": "apps/sending_customer/csvio.py",
-      "class_name": "SendingContractNoticeCSVDownloader",
-      "format": "csv"
+      "class_name": "SendingContractNoticeCSVDownloader"
     },
     "master_api__CampaignCodeCSVDownloader": {
-      "filename": "master_api__CampaignCodeCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.736787",
+      "filename": "master_api__CampaignCodeCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:54.296315",
       "source": "csv_preview",
       "file_path": "apps/master/api.py",
-      "class_name": "CampaignCodeCSVDownloader",
-      "format": "csv"
+      "class_name": "CampaignCodeCSVDownloader"
     },
     "master_api__GasProviderCSVDownloader": {
-      "filename": "master_api__GasProviderCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.737068",
+      "filename": "master_api__GasProviderCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:54.645072",
       "source": "csv_preview",
       "file_path": "apps/master/api.py",
-      "class_name": "GasProviderCSVDownloader",
-      "format": "csv"
+      "class_name": "GasProviderCSVDownloader"
     },
     "kurashi_support_management_commands_output_kurashi_support_accounting_list_csv__CSVBuilder": {
-      "filename": "kurashi_support_management_commands_output_kurashi_support_accounting_list_csv__CSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:16.737273",
+      "filename": "kurashi_support_management_commands_output_kurashi_support_accounting_list_csv__CSVBuilder.png",
+      "captured_at": "2026-02-05T13:26:54.988456",
       "source": "csv_preview",
       "file_path": "apps/kurashi_support/management/commands/output_kurashi_support_accounting_list_csv.py",
-      "class_name": "CSVBuilder",
-      "format": "csv"
+      "class_name": "CSVBuilder"
     },
     "kurashi_support_psupo_csvio__CSVDownloader": {
-      "filename": "kurashi_support_psupo_csvio__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:16.737453",
+      "filename": "kurashi_support_psupo_csvio__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:55.344958",
       "source": "csv_preview",
       "file_path": "apps/kurashi_support/psupo/csvio.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "reward_api__MultipleProductsRewardZIPCreator": {
       "filename": "reward_api__MultipleProductsRewardZIPCreator.png",
-      "captured_at": "2026-02-05T13:06:17.106912",
+      "captured_at": "2026-02-05T13:26:55.737290",
       "source": "zip_preview",
       "file_path": "apps/reward/api.py",
       "class_name": "MultipleProductsRewardZIPCreator"
     },
     "reward_api__MultipleProductsElectricityRewardCSVCreator": {
-      "filename": "reward_api__MultipleProductsElectricityRewardCSVCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.107248",
+      "filename": "reward_api__MultipleProductsElectricityRewardCSVCreator.png",
+      "captured_at": "2026-02-05T13:26:56.085755",
       "source": "csv_preview",
       "file_path": "apps/reward/api.py",
-      "class_name": "MultipleProductsElectricityRewardCSVCreator",
-      "format": "csv"
+      "class_name": "MultipleProductsElectricityRewardCSVCreator"
     },
     "reward_api__MultipleProductsGasRewardCSVCreator": {
-      "filename": "reward_api__MultipleProductsGasRewardCSVCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.107634",
+      "filename": "reward_api__MultipleProductsGasRewardCSVCreator.png",
+      "captured_at": "2026-02-05T13:26:56.429727",
       "source": "csv_preview",
       "file_path": "apps/reward/api.py",
-      "class_name": "MultipleProductsGasRewardCSVCreator",
-      "format": "csv"
+      "class_name": "MultipleProductsGasRewardCSVCreator"
     },
     "reward_api__MultipleProductsHikariRewardCSVCreator": {
-      "filename": "reward_api__MultipleProductsHikariRewardCSVCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.107912",
+      "filename": "reward_api__MultipleProductsHikariRewardCSVCreator.png",
+      "captured_at": "2026-02-05T13:26:56.777638",
       "source": "csv_preview",
       "file_path": "apps/reward/api.py",
-      "class_name": "MultipleProductsHikariRewardCSVCreator",
-      "format": "csv"
+      "class_name": "MultipleProductsHikariRewardCSVCreator"
     },
     "reward_api__MultipleProductsPsupoRewardCSVCreator": {
-      "filename": "reward_api__MultipleProductsPsupoRewardCSVCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.108260",
+      "filename": "reward_api__MultipleProductsPsupoRewardCSVCreator.png",
+      "captured_at": "2026-02-05T13:26:57.121739",
       "source": "csv_preview",
       "file_path": "apps/reward/api.py",
-      "class_name": "MultipleProductsPsupoRewardCSVCreator",
-      "format": "csv"
+      "class_name": "MultipleProductsPsupoRewardCSVCreator"
     },
     "reward_api__MultipleProductsWiFiRewardCSVCreator": {
-      "filename": "reward_api__MultipleProductsWiFiRewardCSVCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.108462",
+      "filename": "reward_api__MultipleProductsWiFiRewardCSVCreator.png",
+      "captured_at": "2026-02-05T13:26:57.470053",
       "source": "csv_preview",
       "file_path": "apps/reward/api.py",
-      "class_name": "MultipleProductsWiFiRewardCSVCreator",
-      "format": "csv"
+      "class_name": "MultipleProductsWiFiRewardCSVCreator"
     },
     "supplypoint_turnon_bulk_download__CSVDownloader": {
-      "filename": "supplypoint_turnon_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.108644",
+      "filename": "supplypoint_turnon_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:57.827541",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/turnon/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "supplypoint_turnon_identifywaiting__IdentifyWaitingCSVDownloader": {
-      "filename": "supplypoint_turnon_identifywaiting__IdentifyWaitingCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.108840",
+      "filename": "supplypoint_turnon_identifywaiting__IdentifyWaitingCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:58.172823",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/turnon/identifywaiting.py",
-      "class_name": "IdentifyWaitingCSVDownloader",
-      "format": "csv"
+      "class_name": "IdentifyWaitingCSVDownloader"
     },
     "supplypoint_contract_change_bulk_download__CSVDownloader": {
-      "filename": "supplypoint_contract_change_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.109047",
+      "filename": "supplypoint_contract_change_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:58.518302",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/contract_change/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "supplypoint_vacancy_bulk_download__CSVDownloader": {
-      "filename": "supplypoint_vacancy_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.109248",
+      "filename": "supplypoint_vacancy_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:58.860990",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/vacancy/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "supplypoint_vacancy_identifywaiting__VacancyRequestIdentifyWaitingCSVDownloader": {
-      "filename": "supplypoint_vacancy_identifywaiting__VacancyRequestIdentifyWaitingCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.109441",
+      "filename": "supplypoint_vacancy_identifywaiting__VacancyRequestIdentifyWaitingCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:59.211160",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/vacancy/identifywaiting.py",
-      "class_name": "VacancyRequestIdentifyWaitingCSVDownloader",
-      "format": "csv"
+      "class_name": "VacancyRequestIdentifyWaitingCSVDownloader"
     },
     "supplypoint_termination_bulk_change_date__TerminationRequestBulkChangeDateCSVDownloader": {
-      "filename": "supplypoint_termination_bulk_change_date__TerminationRequestBulkChangeDateCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.109648",
+      "filename": "supplypoint_termination_bulk_change_date__TerminationRequestBulkChangeDateCSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:59.558107",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/termination/bulk_change_date.py",
-      "class_name": "TerminationRequestBulkChangeDateCSVDownloader",
-      "format": "csv"
+      "class_name": "TerminationRequestBulkChangeDateCSVDownloader"
     },
     "supplypoint_termination_bulk_download__CSVDownloader": {
-      "filename": "supplypoint_termination_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.109844",
+      "filename": "supplypoint_termination_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:26:59.901507",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/termination/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "supplypoint_request_error_csvio__CSVDownloader": {
-      "filename": "supplypoint_request_error_csvio__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.110054",
+      "filename": "supplypoint_request_error_csvio__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:27:00.255768",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/request_error/csvio.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "supplypoint_switching_bulk_download__CSVDownloader": {
-      "filename": "supplypoint_switching_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.110206",
+      "filename": "supplypoint_switching_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:27:00.611304",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/switching/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "supplypoint_transfer_request_csvio__CSVDownloader": {
-      "filename": "supplypoint_transfer_request_csvio__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.110401",
+      "filename": "supplypoint_transfer_request_csvio__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:27:00.961100",
       "source": "csv_preview",
       "file_path": "apps/supplypoint/transfer_request/csvio.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "electricity_api__ContractCancelCSVBuilder": {
-      "filename": "electricity_api__ContractCancelCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.110526",
+      "filename": "electricity_api__ContractCancelCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:01.308752",
       "source": "csv_preview",
       "file_path": "apps/electricity/api.py",
-      "class_name": "ContractCancelCSVBuilder",
-      "format": "csv"
+      "class_name": "ContractCancelCSVBuilder"
     },
     "electricity_api__ContractCreateCSVBuilder": {
-      "filename": "electricity_api__ContractCreateCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.110652",
+      "filename": "electricity_api__ContractCreateCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:01.650239",
       "source": "csv_preview",
       "file_path": "apps/electricity/api.py",
-      "class_name": "ContractCreateCSVBuilder",
-      "format": "csv"
+      "class_name": "ContractCreateCSVBuilder"
     },
     "electricity_management_commands_auto_termination_cancel__CSVBuilder": {
-      "filename": "electricity_management_commands_auto_termination_cancel__CSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.110784",
+      "filename": "electricity_management_commands_auto_termination_cancel__CSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:01.993530",
       "source": "csv_preview",
       "file_path": "apps/electricity/management/commands/auto_termination_cancel.py",
-      "class_name": "CSVBuilder",
-      "format": "csv"
+      "class_name": "CSVBuilder"
     },
     "electricity_management_commands_notify_chatwork_contract__ContractCSVBuilder": {
-      "filename": "electricity_management_commands_notify_chatwork_contract__ContractCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.110912",
+      "filename": "electricity_management_commands_notify_chatwork_contract__ContractCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:02.342037",
       "source": "csv_preview",
       "file_path": "apps/electricity/management/commands/notify_chatwork_contract.py",
-      "class_name": "ContractCSVBuilder",
-      "format": "csv"
+      "class_name": "ContractCSVBuilder"
     },
     "electricity_management_commands_notify_chatwork_turnon_registration_for_campaign__ContractCSVBuilder": {
-      "filename": "electricity_management_commands_notify_chatwork_turnon_registration_for_campaign__ContractCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.111102",
+      "filename": "electricity_management_commands_notify_chatwork_turnon_registration_for_campaign__ContractCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:02.684236",
       "source": "csv_preview",
       "file_path": "apps/electricity/management/commands/notify_chatwork_turnon_registration_for_campaign.py",
-      "class_name": "ContractCSVBuilder",
-      "format": "csv"
+      "class_name": "ContractCSVBuilder"
     },
     "electricity_management_commands_notify_teigaku_dento_info__TeigakuDentoInfoCsvCreator": {
-      "filename": "electricity_management_commands_notify_teigaku_dento_info__TeigakuDentoInfoCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.111297",
+      "filename": "electricity_management_commands_notify_teigaku_dento_info__TeigakuDentoInfoCsvCreator.png",
+      "captured_at": "2026-02-05T13:27:03.122368",
       "source": "csv_preview",
       "file_path": "apps/electricity/management/commands/notify_teigaku_dento_info.py",
-      "class_name": "TeigakuDentoInfoCsvCreator",
-      "format": "csv"
+      "class_name": "TeigakuDentoInfoCsvCreator"
     },
     "posting_contract_notice__ElectricityContractNoticeCSVBuilder": {
-      "filename": "posting_contract_notice__ElectricityContractNoticeCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.111484",
+      "filename": "posting_contract_notice__ElectricityContractNoticeCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:03.481258",
       "source": "csv_preview",
       "file_path": "apps/posting/contract_notice.py",
-      "class_name": "ElectricityContractNoticeCSVBuilder",
-      "format": "csv"
+      "class_name": "ElectricityContractNoticeCSVBuilder"
     },
     "posting_demand_letter__DemandLetterRequestCSVBuilder": {
-      "filename": "posting_demand_letter__DemandLetterRequestCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.111680",
+      "filename": "posting_demand_letter__DemandLetterRequestCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:03.831254",
       "source": "csv_preview",
       "file_path": "apps/posting/demand_letter.py",
-      "class_name": "DemandLetterRequestCSVBuilder",
-      "format": "csv"
+      "class_name": "DemandLetterRequestCSVBuilder"
     },
     "posting_fukushima_printing_csvio__BillingSummaryUsageFeeCSVBuilder": {
-      "filename": "posting_fukushima_printing_csvio__BillingSummaryUsageFeeCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.111937",
+      "filename": "posting_fukushima_printing_csvio__BillingSummaryUsageFeeCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:04.185353",
       "source": "csv_preview",
       "file_path": "apps/posting/fukushima_printing/csvio.py",
-      "class_name": "BillingSummaryUsageFeeCSVBuilder",
-      "format": "csv"
+      "class_name": "BillingSummaryUsageFeeCSVBuilder"
     },
     "posting_fukushima_printing_csvio__BillingUsageFeeCSVBuilder": {
-      "filename": "posting_fukushima_printing_csvio__BillingUsageFeeCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.112215",
+      "filename": "posting_fukushima_printing_csvio__BillingUsageFeeCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:04.537548",
       "source": "csv_preview",
       "file_path": "apps/posting/fukushima_printing/csvio.py",
-      "class_name": "BillingUsageFeeCSVBuilder",
-      "format": "csv"
+      "class_name": "BillingUsageFeeCSVBuilder"
     },
     "posting_fukushima_printing_csvio__GasBillingUsageFeeCSVBuilder": {
-      "filename": "posting_fukushima_printing_csvio__GasBillingUsageFeeCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.112445",
+      "filename": "posting_fukushima_printing_csvio__GasBillingUsageFeeCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:04.888778",
       "source": "csv_preview",
       "file_path": "apps/posting/fukushima_printing/csvio.py",
-      "class_name": "GasBillingUsageFeeCSVBuilder",
-      "format": "csv"
+      "class_name": "GasBillingUsageFeeCSVBuilder"
     },
     "posting_fukushima_printing_csvio__InternetBillingUsageFeeCSVBuilder": {
-      "filename": "posting_fukushima_printing_csvio__InternetBillingUsageFeeCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.112670",
+      "filename": "posting_fukushima_printing_csvio__InternetBillingUsageFeeCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:05.265025",
       "source": "csv_preview",
       "file_path": "apps/posting/fukushima_printing/csvio.py",
-      "class_name": "InternetBillingUsageFeeCSVBuilder",
-      "format": "csv"
+      "class_name": "InternetBillingUsageFeeCSVBuilder"
     },
     "posting_fukushima_printing_csvio__KurashiSupportBillingUsageFeeCSVBuilder": {
-      "filename": "posting_fukushima_printing_csvio__KurashiSupportBillingUsageFeeCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.112885",
+      "filename": "posting_fukushima_printing_csvio__KurashiSupportBillingUsageFeeCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:05.611948",
       "source": "csv_preview",
       "file_path": "apps/posting/fukushima_printing/csvio.py",
-      "class_name": "KurashiSupportBillingUsageFeeCSVBuilder",
-      "format": "csv"
+      "class_name": "KurashiSupportBillingUsageFeeCSVBuilder"
     },
     "posting_fukushima_printing_csvio__DemandLetterCSVBuilder": {
-      "filename": "posting_fukushima_printing_csvio__DemandLetterCSVBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.113076",
+      "filename": "posting_fukushima_printing_csvio__DemandLetterCSVBuilder.png",
+      "captured_at": "2026-02-05T13:27:05.964577",
       "source": "csv_preview",
       "file_path": "apps/posting/fukushima_printing/csvio.py",
-      "class_name": "DemandLetterCSVBuilder",
-      "format": "csv"
+      "class_name": "DemandLetterCSVBuilder"
     },
     "stats_management_commands_renewal_rate_count__PintRenewalRateCsvCreator": {
-      "filename": "stats_management_commands_renewal_rate_count__PintRenewalRateCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.113257",
+      "filename": "stats_management_commands_renewal_rate_count__PintRenewalRateCsvCreator.png",
+      "captured_at": "2026-02-05T13:27:06.323216",
       "source": "csv_preview",
       "file_path": "apps/stats/management/commands/renewal_rate_count.py",
-      "class_name": "PintRenewalRateCsvCreator",
-      "format": "csv"
+      "class_name": "PintRenewalRateCsvCreator"
     },
     "stats_management_commands_renewal_rate_count__DairiOrgRenewalRateCsvCreator": {
-      "filename": "stats_management_commands_renewal_rate_count__DairiOrgRenewalRateCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.113450",
+      "filename": "stats_management_commands_renewal_rate_count__DairiOrgRenewalRateCsvCreator.png",
+      "captured_at": "2026-02-05T13:27:06.671027",
       "source": "csv_preview",
       "file_path": "apps/stats/management/commands/renewal_rate_count.py",
-      "class_name": "DairiOrgRenewalRateCsvCreator",
-      "format": "csv"
+      "class_name": "DairiOrgRenewalRateCsvCreator"
     },
     "stats_management_commands_renewal_rate_count__DaitoOrgRenewalRateCsvCreator": {
-      "filename": "stats_management_commands_renewal_rate_count__DaitoOrgRenewalRateCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.113652",
+      "filename": "stats_management_commands_renewal_rate_count__DaitoOrgRenewalRateCsvCreator.png",
+      "captured_at": "2026-02-05T13:27:07.019547",
       "source": "csv_preview",
       "file_path": "apps/stats/management/commands/renewal_rate_count.py",
-      "class_name": "DaitoOrgRenewalRateCsvCreator",
-      "format": "csv"
+      "class_name": "DaitoOrgRenewalRateCsvCreator"
     },
     "stats_management_commands_renewal_rate_count__PintRenewalRateForApplicationSourceCsvCreator": {
-      "filename": "stats_management_commands_renewal_rate_count__PintRenewalRateForApplicationSourceCsvCreator.csv",
-      "captured_at": "2026-02-05T13:06:17.113853",
+      "filename": "stats_management_commands_renewal_rate_count__PintRenewalRateForApplicationSourceCsvCreator.png",
+      "captured_at": "2026-02-05T13:27:07.369760",
       "source": "csv_preview",
       "file_path": "apps/stats/management/commands/renewal_rate_count.py",
-      "class_name": "PintRenewalRateForApplicationSourceCsvCreator",
-      "format": "csv"
+      "class_name": "PintRenewalRateForApplicationSourceCsvCreator"
     },
     "billing_billing_api__BillingCSVDownloader": {
-      "filename": "billing_billing_api__BillingCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.114040",
+      "filename": "billing_billing_api__BillingCSVDownloader.png",
+      "captured_at": "2026-02-05T13:27:07.718986",
       "source": "csv_preview",
       "file_path": "apps/billing/billing/api.py",
-      "class_name": "BillingCSVDownloader",
-      "format": "csv"
+      "class_name": "BillingCSVDownloader"
     },
     "billing_billing_api__CustomerBillingCSVDownloader": {
-      "filename": "billing_billing_api__CustomerBillingCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.114225",
+      "filename": "billing_billing_api__CustomerBillingCSVDownloader.png",
+      "captured_at": "2026-02-05T13:27:08.069888",
       "source": "csv_preview",
       "file_path": "apps/billing/billing/api.py",
-      "class_name": "CustomerBillingCSVDownloader",
-      "format": "csv"
+      "class_name": "CustomerBillingCSVDownloader"
     },
     "billing_billing_api__AllBillingsCSVDownloader": {
-      "filename": "billing_billing_api__AllBillingsCSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.114402",
+      "filename": "billing_billing_api__AllBillingsCSVDownloader.png",
+      "captured_at": "2026-02-05T13:27:08.415560",
       "source": "csv_preview",
       "file_path": "apps/billing/billing/api.py",
-      "class_name": "AllBillingsCSVDownloader",
-      "format": "csv"
+      "class_name": "AllBillingsCSVDownloader"
     },
     "billing_billing_reward__RewardCsvBuilder": {
-      "filename": "billing_billing_reward__RewardCsvBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.114573",
+      "filename": "billing_billing_reward__RewardCsvBuilder.png",
+      "captured_at": "2026-02-05T13:27:08.767754",
       "source": "csv_preview",
       "file_path": "apps/billing/billing/reward.py",
-      "class_name": "RewardCsvBuilder",
-      "format": "csv"
+      "class_name": "RewardCsvBuilder"
     },
     "billing_billing_reward__NCreateRewardCsvBuilder": {
-      "filename": "billing_billing_reward__NCreateRewardCsvBuilder.csv",
-      "captured_at": "2026-02-05T13:06:17.114742",
+      "filename": "billing_billing_reward__NCreateRewardCsvBuilder.png",
+      "captured_at": "2026-02-05T13:27:09.120377",
       "source": "csv_preview",
       "file_path": "apps/billing/billing/reward.py",
-      "class_name": "NCreateRewardCsvBuilder",
-      "format": "csv"
+      "class_name": "NCreateRewardCsvBuilder"
     },
     "claim_bulk_download__CSVDownloader": {
-      "filename": "claim_bulk_download__CSVDownloader.csv",
-      "captured_at": "2026-02-05T13:06:17.114910",
+      "filename": "claim_bulk_download__CSVDownloader.png",
+      "captured_at": "2026-02-05T13:27:09.474761",
       "source": "csv_preview",
       "file_path": "apps/claim/bulk_download.py",
-      "class_name": "CSVDownloader",
-      "format": "csv"
+      "class_name": "CSVDownloader"
     },
     "claim_bulk_download__CSVDownloaderForCardPaymentRequestError": {
-      "filename": "claim_bulk_download__CSVDownloaderForCardPaymentRequestError.csv",
-      "captured_at": "2026-02-05T13:06:17.115098",
+      "filename": "claim_bulk_download__CSVDownloaderForCardPaymentRequestError.png",
+      "captured_at": "2026-02-05T13:27:09.823027",
       "source": "csv_preview",
       "file_path": "apps/claim/bulk_download.py",
-      "class_name": "CSVDownloaderForCardPaymentRequestError",
-      "format": "csv"
+      "class_name": "CSVDownloaderForCardPaymentRequestError"
     },
     "hikari_management_commands_generate_and_upload_hikari_csv__generate_and_upload_hikari_csv": {
-      "filename": "hikari_management_commands_generate_and_upload_hikari_csv__generate_and_upload_hikari_csv.csv",
-      "captured_at": "2026-02-05T13:06:17.115316",
+      "filename": "hikari_management_commands_generate_and_upload_hikari_csv__generate_and_upload_hikari_csv.png",
+      "captured_at": "2026-02-05T13:27:10.179423",
       "source": "csv_preview",
       "file_path": "apps/hikari/management/commands/generate_and_upload_hikari_csv.py",
-      "class_name": "generate_and_upload_hikari_csv",
-      "format": "csv"
+      "class_name": "generate_and_upload_hikari_csv"
     },
     "hikari_management_commands_generate_and_upload_hikari_delivery_csv__generate_and_upload_hikari_delivery_csv": {
-      "filename": "hikari_management_commands_generate_and_upload_hikari_delivery_csv__generate_and_upload_hikari_delivery_csv.csv",
-      "captured_at": "2026-02-05T13:06:17.115789",
+      "filename": "hikari_management_commands_generate_and_upload_hikari_delivery_csv__generate_and_upload_hikari_delivery_csv.png",
+      "captured_at": "2026-02-05T13:27:10.524631",
       "source": "csv_preview",
       "file_path": "apps/hikari/management/commands/generate_and_upload_hikari_delivery_csv.py",
-      "class_name": "generate_and_upload_hikari_delivery_csv",
-      "format": "csv"
+      "class_name": "generate_and_upload_hikari_delivery_csv"
     },
     "posting_management_commands_generate_electricity_contract_notice__generate_electricity_contract_notice": {
-      "filename": "posting_management_commands_generate_electricity_contract_notice__generate_electricity_contract_notice.csv",
-      "captured_at": "2026-02-05T13:06:17.115979",
+      "filename": "posting_management_commands_generate_electricity_contract_notice__generate_electricity_contract_notice.png",
+      "captured_at": "2026-02-05T13:27:10.881104",
       "source": "csv_preview",
       "file_path": "apps/posting/management/commands/generate_electricity_contract_notice.py",
-      "class_name": "generate_electricity_contract_notice",
-      "format": "csv"
+      "class_name": "generate_electricity_contract_notice"
     },
     "posting_management_commands_generate_electricity_contract_notice_for_toritsugi__generate_electricity_contract_notice_for_toritsugi": {
-      "filename": "posting_management_commands_generate_electricity_contract_notice_for_toritsugi__generate_electricity_contract_notice_for_toritsugi.csv",
-      "captured_at": "2026-02-05T13:06:17.116170",
+      "filename": "posting_management_commands_generate_electricity_contract_notice_for_toritsugi__generate_electricity_contract_notice_for_toritsugi.png",
+      "captured_at": "2026-02-05T13:27:11.253583",
       "source": "csv_preview",
       "file_path": "apps/posting/management/commands/generate_electricity_contract_notice_for_toritsugi.py",
-      "class_name": "generate_electricity_contract_notice_for_toritsugi",
-      "format": "csv"
+      "class_name": "generate_electricity_contract_notice_for_toritsugi"
     },
     "billing_management_commands_output_all_usage_list__output_all_usage_list": {
-      "filename": "billing_management_commands_output_all_usage_list__output_all_usage_list.csv",
-      "captured_at": "2026-02-05T13:06:17.116355",
+      "filename": "billing_management_commands_output_all_usage_list__output_all_usage_list.png",
+      "captured_at": "2026-02-05T13:27:11.607476",
       "source": "csv_preview",
       "file_path": "apps/billing/management/commands/output_all_usage_list.py",
-      "class_name": "output_all_usage_list",
-      "format": "csv"
+      "class_name": "output_all_usage_list"
     },
     "billing_automation_management_commands_output_billing_list_csv__output_billing_list_csv": {
-      "filename": "billing_automation_management_commands_output_billing_list_csv__output_billing_list_csv.csv",
-      "captured_at": "2026-02-05T13:06:17.116523",
+      "filename": "billing_automation_management_commands_output_billing_list_csv__output_billing_list_csv.png",
+      "captured_at": "2026-02-05T13:27:11.961628",
       "source": "csv_preview",
       "file_path": "apps/billing_automation/management/commands/output_billing_list_csv.py",
-      "class_name": "output_billing_list_csv",
-      "format": "csv"
+      "class_name": "output_billing_list_csv"
     },
     "billing_management_commands_output_contract_earnings__output_contract_earnings": {
-      "filename": "billing_management_commands_output_contract_earnings__output_contract_earnings.csv",
-      "captured_at": "2026-02-05T13:06:17.116692",
+      "filename": "billing_management_commands_output_contract_earnings__output_contract_earnings.png",
+      "captured_at": "2026-02-05T13:27:12.303319",
       "source": "csv_preview",
       "file_path": "apps/billing/management/commands/output_contract_earnings.py",
-      "class_name": "output_contract_earnings",
-      "format": "csv"
+      "class_name": "output_contract_earnings"
     },
     "electricity_management_commands_output_earnings__output_earnings": {
-      "filename": "electricity_management_commands_output_earnings__output_earnings.csv",
-      "captured_at": "2026-02-05T13:06:17.116851",
+      "filename": "electricity_management_commands_output_earnings__output_earnings.png",
+      "captured_at": "2026-02-05T13:27:12.644448",
       "source": "csv_preview",
       "file_path": "apps/electricity/management/commands/output_earnings.py",
-      "class_name": "output_earnings",
-      "format": "csv"
+      "class_name": "output_earnings"
     },
     "billing_automation_management_commands_output_hikari_billing_csv__output_hikari_billing_csv": {
-      "filename": "billing_automation_management_commands_output_hikari_billing_csv__output_hikari_billing_csv.csv",
-      "captured_at": "2026-02-05T13:06:17.117012",
+      "filename": "billing_automation_management_commands_output_hikari_billing_csv__output_hikari_billing_csv.png",
+      "captured_at": "2026-02-05T13:27:12.994392",
       "source": "csv_preview",
       "file_path": "apps/billing_automation/management/commands/output_hikari_billing_csv.py",
-      "class_name": "output_hikari_billing_csv",
-      "format": "csv"
+      "class_name": "output_hikari_billing_csv"
     },
     "kurashi_support_management_commands_output_kurashi_support_accounting_list_csv__output_kurashi_support_accounting_list_csv": {
-      "filename": "kurashi_support_management_commands_output_kurashi_support_accounting_list_csv__output_kurashi_support_accounting_list_csv.csv",
-      "captured_at": "2026-02-05T13:06:17.117186",
+      "filename": "kurashi_support_management_commands_output_kurashi_support_accounting_list_csv__output_kurashi_support_accounting_list_csv.png",
+      "captured_at": "2026-02-05T13:27:13.351503",
       "source": "csv_preview",
       "file_path": "apps/kurashi_support/management/commands/output_kurashi_support_accounting_list_csv.py",
-      "class_name": "output_kurashi_support_accounting_list_csv",
-      "format": "csv"
+      "class_name": "output_kurashi_support_accounting_list_csv"
     },
     "electricity_management_commands_output_monthly_consumption_tables__output_monthly_consumption_tables": {
-      "filename": "electricity_management_commands_output_monthly_consumption_tables__output_monthly_consumption_tables.csv",
-      "captured_at": "2026-02-05T13:06:17.117337",
+      "filename": "electricity_management_commands_output_monthly_consumption_tables__output_monthly_consumption_tables.png",
+      "captured_at": "2026-02-05T13:27:13.701906",
       "source": "csv_preview",
       "file_path": "apps/electricity/management/commands/output_monthly_consumption_tables.py",
-      "class_name": "output_monthly_consumption_tables",
-      "format": "csv"
+      "class_name": "output_monthly_consumption_tables"
     },
     "electricity_management_commands_output_monthly_consumption_tables_csv__output_monthly_consumption_tables_csv": {
-      "filename": "electricity_management_commands_output_monthly_consumption_tables_csv__output_monthly_consumption_tables_csv.csv",
-      "captured_at": "2026-02-05T13:06:17.117513",
+      "filename": "electricity_management_commands_output_monthly_consumption_tables_csv__output_monthly_consumption_tables_csv.png",
+      "captured_at": "2026-02-05T13:27:14.062951",
       "source": "csv_preview",
       "file_path": "apps/electricity/management/commands/output_monthly_consumption_tables_csv.py",
-      "class_name": "output_monthly_consumption_tables_csv",
-      "format": "csv"
+      "class_name": "output_monthly_consumption_tables_csv"
     },
     "billing_automation_management_commands_output_wifi_billing_csv__output_wifi_billing_csv": {
-      "filename": "billing_automation_management_commands_output_wifi_billing_csv__output_wifi_billing_csv.csv",
-      "captured_at": "2026-02-05T13:06:17.117684",
+      "filename": "billing_automation_management_commands_output_wifi_billing_csv__output_wifi_billing_csv.png",
+      "captured_at": "2026-02-05T13:27:14.412475",
       "source": "csv_preview",
       "file_path": "apps/billing_automation/management/commands/output_wifi_billing_csv.py",
-      "class_name": "output_wifi_billing_csv",
-      "format": "csv"
+      "class_name": "output_wifi_billing_csv"
     }
   }
 }
