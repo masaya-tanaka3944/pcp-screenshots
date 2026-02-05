@@ -1,0 +1,42 @@
+{
+  "captured_at": "2026-02-05T09:14:07.535658",
+  "base_url": "https://raw.githubusercontent.com/masaya-tanaka3944/pcp-screenshots/main/screenshots/reports",
+  "images": {
+    "create_contract_notice": {
+      "filename": "create_contract_notice.png",
+      "captured_at": "2026-02-05T09:14:08.450815",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    },
+    "create_demand_letter": {
+      "filename": "create_demand_letter.png",
+      "captured_at": "2026-02-05T09:14:09.613571",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    },
+    "create_billing_receipt": {
+      "filename": "create_billing_receipt.png",
+      "captured_at": "2026-02-05T09:14:10.162738",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    },
+    "create_agency_invoice": {
+      "filename": "create_agency_invoice.png",
+      "captured_at": "2026-02-05T09:14:10.743198",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    },
+    "create_reward_invoice": {
+      "filename": "create_reward_invoice.png",
+      "captured_at": "2026-02-05T09:14:11.313639",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    },
+    "create_usage_fee_summary": {
+      "filename": "create_usage_fee_summary.png",
+      "captured_at": "2026-02-05T09:14:09.035790",
+      "source": "template",
+      "file_path": "apps/posting/individual_pdf.py"
+    }
+  }
+}
