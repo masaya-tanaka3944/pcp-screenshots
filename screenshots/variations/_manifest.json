@@ -1,0 +1,1206 @@
+{
+  "captured_at": "2026-02-06T12:56:36.790048",
+  "base_url": "https://raw.githubusercontent.com/masaya-tanaka3944/pcp-screenshots/main/screenshots/variations",
+  "images": {
+    "user__turnon1_v2__v_current_step_1": {
+      "filename": "user__turnon1_v2__v_current_step_1.png",
+      "captured_at": "2026-02-06T12:58:39.341892",
+      "url_pattern": "/turnon1_v2",
+      "site": "user",
+      "variation_id": "current_step_1",
+      "variation_label": "STEP1",
+      "condition": "current_step == 1",
+      "template": "user/registration/turnon_new/turnon1_v2.html"
+    },
+    "operation__customer_param__v_error": {
+      "filename": "operation__customer_param__v_error.png",
+      "captured_at": "2026-02-06T12:56:39.774775",
+      "url_pattern": "/customer/<int:id>/",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/customer/detail.html"
+    },
+    "operation__customer_param__v_empty": {
+      "filename": "operation__customer_param__v_empty.png",
+      "captured_at": "2026-02-06T12:56:41.059202",
+      "url_pattern": "/customer/<int:id>/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/customer/detail.html"
+    },
+    "operation__customer_name_modification_request__v_empty": {
+      "filename": "operation__customer_name_modification_request__v_empty.png",
+      "captured_at": "2026-02-06T12:56:42.112257",
+      "url_pattern": "/customer/name_modification_request",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/customer/name_modification_request_list.html"
+    },
+    "operation__customer_reserved_changing_address__v_empty": {
+      "filename": "operation__customer_reserved_changing_address__v_empty.png",
+      "captured_at": "2026-02-06T12:56:43.158763",
+      "url_pattern": "/customer/reserved_changing_address",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/customer/reserved_changing_address/index.html"
+    },
+    "operation__customer_account_transfer_progress__v_empty": {
+      "filename": "operation__customer_account_transfer_progress__v_empty.png",
+      "captured_at": "2026-02-06T12:56:44.209750",
+      "url_pattern": "/customer/account_transfer_progress",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/customer/account_transfer_progress/index.html"
+    },
+    "operation__supplypoint__v_error": {
+      "filename": "operation__supplypoint__v_error.png",
+      "captured_at": "2026-02-06T12:56:45.287344",
+      "url_pattern": "/supplypoint/",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/supplypoint/supplypoint/index.html"
+    },
+    "operation__supplypoint__v_empty": {
+      "filename": "operation__supplypoint__v_empty.png",
+      "captured_at": "2026-02-06T12:56:46.368041",
+      "url_pattern": "/supplypoint/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/supplypoint/index.html"
+    },
+    "operation__supplypoint_upload_csv__v_error": {
+      "filename": "operation__supplypoint_upload_csv__v_error.png",
+      "captured_at": "2026-02-06T12:56:47.398852",
+      "url_pattern": "/supplypoint/upload_csv",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/error.html"
+    },
+    "operation__supplypoint_rakuraku_switching_upload__v_error": {
+      "filename": "operation__supplypoint_rakuraku_switching_upload__v_error.png",
+      "captured_at": "2026-02-06T12:56:48.453877",
+      "url_pattern": "/supplypoint/rakuraku_switching/upload/",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/application/rakuraku_switching/entry_new_form.html"
+    },
+    "operation__supplypoint_switching__v_error": {
+      "filename": "operation__supplypoint_switching__v_error.png",
+      "captured_at": "2026-02-06T12:56:49.528909",
+      "url_pattern": "/supplypoint/switching/",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/supplypoint/switching/index.html"
+    },
+    "operation__supplypoint_switching__v_empty": {
+      "filename": "operation__supplypoint_switching__v_empty.png",
+      "captured_at": "2026-02-06T12:56:50.562597",
+      "url_pattern": "/supplypoint/switching/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/switching/index.html"
+    },
+    "operation__supplypoint_turnon__v_empty": {
+      "filename": "operation__supplypoint_turnon__v_empty.png",
+      "captured_at": "2026-02-06T12:56:51.611136",
+      "url_pattern": "/supplypoint/turnon/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/turnon/index.html"
+    },
+    "operation__supplypoint_termination__v_empty": {
+      "filename": "operation__supplypoint_termination__v_empty.png",
+      "captured_at": "2026-02-06T12:56:52.666053",
+      "url_pattern": "/supplypoint/termination/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/termination/index.html"
+    },
+    "operation__supplypoint_vacancy__v_empty": {
+      "filename": "operation__supplypoint_vacancy__v_empty.png",
+      "captured_at": "2026-02-06T12:56:53.753092",
+      "url_pattern": "/supplypoint/vacancy/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/vacancy/index.html"
+    },
+    "operation__supplypoint_contract__v_empty": {
+      "filename": "operation__supplypoint_contract__v_empty.png",
+      "captured_at": "2026-02-06T12:56:54.803729",
+      "url_pattern": "/supplypoint/contract/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/contract/index.html"
+    },
+    "operation__supplypoint_contract_change__v_empty": {
+      "filename": "operation__supplypoint_contract_change__v_empty.png",
+      "captured_at": "2026-02-06T12:56:55.849049",
+      "url_pattern": "/supplypoint/contract_change/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/contract_change/index.html"
+    },
+    "operation__supplypoint_contract_change__v_processing": {
+      "filename": "operation__supplypoint_contract_change__v_processing.png",
+      "captured_at": "2026-02-06T12:56:56.927187",
+      "url_pattern": "/supplypoint/contract_change/",
+      "site": "operation",
+      "variation_id": "processing",
+      "variation_label": "処理中",
+      "condition": "処理中/ローディング状態",
+      "template": "operation/supplypoint/contract_change/index.html"
+    },
+    "operation__supplypoint_request_error__v_empty": {
+      "filename": "operation__supplypoint_request_error__v_empty.png",
+      "captured_at": "2026-02-06T12:56:58.002339",
+      "url_pattern": "/supplypoint/request_error/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/request_error/index.html"
+    },
+    "operation__supplypoint_transfer_request__v_empty": {
+      "filename": "operation__supplypoint_transfer_request__v_empty.png",
+      "captured_at": "2026-02-06T12:56:59.062312",
+      "url_pattern": "/supplypoint/transfer_request/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/supplypoint/transfer_request/index.html"
+    },
+    "operation__master_consignment__v_empty": {
+      "filename": "operation__master_consignment__v_empty.png",
+      "captured_at": "2026-02-06T12:57:00.121216",
+      "url_pattern": "/master/consignment/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/consignment/index.html"
+    },
+    "operation__master_campaigncode__v_empty": {
+      "filename": "operation__master_campaigncode__v_empty.png",
+      "captured_at": "2026-02-06T12:57:01.182464",
+      "url_pattern": "/master/campaigncode/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/campaigncode/index.html"
+    },
+    "operation__master_gas_fuel__v_empty": {
+      "filename": "operation__master_gas_fuel__v_empty.png",
+      "captured_at": "2026-02-06T12:57:02.248583",
+      "url_pattern": "/master/gas_fuel/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/gas_fuel/index.html"
+    },
+    "operation__master_gasplans__v_empty": {
+      "filename": "operation__master_gasplans__v_empty.png",
+      "captured_at": "2026-02-06T12:57:03.292954",
+      "url_pattern": "/master/gasplans/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/gasplans/index.html"
+    },
+    "operation__master_hikari_billing_item__v_empty": {
+      "filename": "operation__master_hikari_billing_item__v_empty.png",
+      "captured_at": "2026-02-06T12:57:04.337220",
+      "url_pattern": "/master/hikari_billing_item/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/hikari_billing_item/index.html"
+    },
+    "operation__master_teigaku_fuel__v_empty": {
+      "filename": "operation__master_teigaku_fuel__v_empty.png",
+      "captured_at": "2026-02-06T12:57:05.410158",
+      "url_pattern": "/master/teigaku_fuel/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/teigaku_fuel/index.html"
+    },
+    "operation__master_teigaku_recycle_energy__v_empty": {
+      "filename": "operation__master_teigaku_recycle_energy__v_empty.png",
+      "captured_at": "2026-02-06T12:57:06.474794",
+      "url_pattern": "/master/teigaku_recycle_energy/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/teigaku_recycle_energy/index.html"
+    },
+    "operation__master_notification_message_template__v_empty": {
+      "filename": "operation__master_notification_message_template__v_empty.png",
+      "captured_at": "2026-02-06T12:57:07.558446",
+      "url_pattern": "/master/notification_message_template/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/notification_message_template/index.html"
+    },
+    "operation__master_order_error_type__v_empty": {
+      "filename": "operation__master_order_error_type__v_empty.png",
+      "captured_at": "2026-02-06T12:57:08.605912",
+      "url_pattern": "/master/order_error_type/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/order_error_type/index.html"
+    },
+    "operation__master_wifi_billing_item__v_empty": {
+      "filename": "operation__master_wifi_billing_item__v_empty.png",
+      "captured_at": "2026-02-06T12:57:09.749096",
+      "url_pattern": "/master/wifi_billing_item/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/wifi_billing_item/index.html"
+    },
+    "operation__master_gas_service_area__v_empty": {
+      "filename": "operation__master_gas_service_area__v_empty.png",
+      "captured_at": "2026-02-06T12:57:10.791965",
+      "url_pattern": "/master/gas_service_area/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/master/gas_service_area/index.html"
+    },
+    "operation__admin_staff__v_empty": {
+      "filename": "operation__admin_staff__v_empty.png",
+      "captured_at": "2026-02-06T12:57:11.835440",
+      "url_pattern": "/admin/staff/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/admin/staff/index.html"
+    },
+    "operation__admin_staff_ip_address_groups__v_empty": {
+      "filename": "operation__admin_staff_ip_address_groups__v_empty.png",
+      "captured_at": "2026-02-06T12:57:12.885082",
+      "url_pattern": "/admin/staff/ip_address_groups/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/admin/ip_address_group/index.html"
+    },
+    "operation__admin_locked_staff__v_empty": {
+      "filename": "operation__admin_locked_staff__v_empty.png",
+      "captured_at": "2026-02-06T12:57:13.920855",
+      "url_pattern": "/admin/locked_staff/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/admin/locked_staff/index.html"
+    },
+    "operation__posting_account_transfer_request__v_empty": {
+      "filename": "operation__posting_account_transfer_request__v_empty.png",
+      "captured_at": "2026-02-06T12:57:14.978355",
+      "url_pattern": "/posting/account_transfer_request/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/posting/account_transfer_request/index.html"
+    },
+    "operation__posting_demand_letter_request_old__v_empty": {
+      "filename": "operation__posting_demand_letter_request_old__v_empty.png",
+      "captured_at": "2026-02-06T12:57:16.021225",
+      "url_pattern": "/posting/demand_letter_request_old/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/posting/demand_letter_request_old/index.html"
+    },
+    "operation__posting_gas_upload_log__v_empty": {
+      "filename": "operation__posting_gas_upload_log__v_empty.png",
+      "captured_at": "2026-02-06T12:57:17.055245",
+      "url_pattern": "/posting/gas_upload_log/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/posting/gas_upload_log/index.html"
+    },
+    "operation__gas__v_empty": {
+      "filename": "operation__gas__v_empty.png",
+      "captured_at": "2026-02-06T12:57:18.100618",
+      "url_pattern": "/gas/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/supplypoint/index.html"
+    },
+    "operation__gas_meter_info__v_empty": {
+      "filename": "operation__gas_meter_info__v_empty.png",
+      "captured_at": "2026-02-06T12:57:19.138129",
+      "url_pattern": "/gas/meter_info",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/billing/meter_info.html"
+    },
+    "operation__gas_meter_info_adjustment__v_empty": {
+      "filename": "operation__gas_meter_info_adjustment__v_empty.png",
+      "captured_at": "2026-02-06T12:57:20.164863",
+      "url_pattern": "/gas/meter_info_adjustment/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/billing/meter_info_adjustment/index.html"
+    },
+    "operation__gas_billings__v_empty": {
+      "filename": "operation__gas_billings__v_empty.png",
+      "captured_at": "2026-02-06T12:57:21.208039",
+      "url_pattern": "/gas/billings",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/billing/index.html"
+    },
+    "operation__gas_earnings__v_empty": {
+      "filename": "operation__gas_earnings__v_empty.png",
+      "captured_at": "2026-02-06T12:57:22.239757",
+      "url_pattern": "/gas/earnings",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/billing/earnings.html"
+    },
+    "operation__gas_reward_master__v_empty": {
+      "filename": "operation__gas_reward_master__v_empty.png",
+      "captured_at": "2026-02-06T12:57:23.273038",
+      "url_pattern": "/gas/reward_master",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/billing/reward_master.html"
+    },
+    "operation__gas_reward_detail__v_empty": {
+      "filename": "operation__gas_reward_detail__v_empty.png",
+      "captured_at": "2026-02-06T12:57:24.307816",
+      "url_pattern": "/gas/reward_detail",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/billing/reward_detail.html"
+    },
+    "operation__gas_adjustment_list__v_empty": {
+      "filename": "operation__gas_adjustment_list__v_empty.png",
+      "captured_at": "2026-02-06T12:57:25.330682",
+      "url_pattern": "/gas/adjustment_list",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/billing/adjustment_list.html"
+    },
+    "operation__gas_switching__v_empty": {
+      "filename": "operation__gas_switching__v_empty.png",
+      "captured_at": "2026-02-06T12:57:26.401822",
+      "url_pattern": "/gas/switching/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/switching/index.html"
+    },
+    "operation__gas_turnon__v_empty": {
+      "filename": "operation__gas_turnon__v_empty.png",
+      "captured_at": "2026-02-06T12:57:27.456683",
+      "url_pattern": "/gas/turnon/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/turnon/index.html"
+    },
+    "operation__gas_turnon_param_register_supply_point_number__v_error": {
+      "filename": "operation__gas_turnon_param_register_supply_point_number__v_error.png",
+      "captured_at": "2026-02-06T12:57:28.487531",
+      "url_pattern": "/gas/turnon/<int:id>/register_supply_point_number",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/gas/turnon/register_supply_point_number_form.html"
+    },
+    "operation__gas_switching_termination__v_empty": {
+      "filename": "operation__gas_switching_termination__v_empty.png",
+      "captured_at": "2026-02-06T12:57:29.547529",
+      "url_pattern": "/gas/switching_termination/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/switching_termination/index.html"
+    },
+    "operation__gas_termination__v_empty": {
+      "filename": "operation__gas_termination__v_empty.png",
+      "captured_at": "2026-02-06T12:57:30.595978",
+      "url_pattern": "/gas/termination/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/gas/termination/index.html"
+    },
+    "operation__gas_termination_bulk_register__v_error": {
+      "filename": "operation__gas_termination_bulk_register__v_error.png",
+      "captured_at": "2026-02-06T12:57:31.637735",
+      "url_pattern": "/gas/termination/bulk_register",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/gas/termination/bulk_register_upload.html"
+    },
+    "operation__hikari__v_empty": {
+      "filename": "operation__hikari__v_empty.png",
+      "captured_at": "2026-02-06T12:57:32.708529",
+      "url_pattern": "/hikari/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/supplypoint/index.html"
+    },
+    "operation__hikari_meter_info__v_empty": {
+      "filename": "operation__hikari_meter_info__v_empty.png",
+      "captured_at": "2026-02-06T12:57:33.759341",
+      "url_pattern": "/hikari/meter_info",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/meter_info.html"
+    },
+    "operation__hikari_meter_info_detail__v_empty": {
+      "filename": "operation__hikari_meter_info_detail__v_empty.png",
+      "captured_at": "2026-02-06T12:57:34.800155",
+      "url_pattern": "/hikari/meter_info_detail",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/meter_info_detail.html"
+    },
+    "operation__hikari_meter_info_import_list__v_empty": {
+      "filename": "operation__hikari_meter_info_import_list__v_empty.png",
+      "captured_at": "2026-02-06T12:57:35.837534",
+      "url_pattern": "/hikari/meter_info/import_list",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/meter_info_import_overview_list.html"
+    },
+    "operation__hikari_billings__v_empty": {
+      "filename": "operation__hikari_billings__v_empty.png",
+      "captured_at": "2026-02-06T12:57:36.877239",
+      "url_pattern": "/hikari/billings",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/index.html"
+    },
+    "operation__hikari_earnings__v_empty": {
+      "filename": "operation__hikari_earnings__v_empty.png",
+      "captured_at": "2026-02-06T12:57:37.921373",
+      "url_pattern": "/hikari/earnings",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/earnings.html"
+    },
+    "operation__hikari_adjustment_list__v_empty": {
+      "filename": "operation__hikari_adjustment_list__v_empty.png",
+      "captured_at": "2026-02-06T12:57:38.966034",
+      "url_pattern": "/hikari/adjustment_list",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/adjustment_list.html"
+    },
+    "operation__hikari_transfer_info__v_empty": {
+      "filename": "operation__hikari_transfer_info__v_empty.png",
+      "captured_at": "2026-02-06T12:57:40.021386",
+      "url_pattern": "/hikari/transfer_info",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/transfer_info/index.html"
+    },
+    "operation__hikari_reward_master__v_empty": {
+      "filename": "operation__hikari_reward_master__v_empty.png",
+      "captured_at": "2026-02-06T12:57:41.056266",
+      "url_pattern": "/hikari/reward_master",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/reward_master.html"
+    },
+    "operation__hikari_reward_detail__v_empty": {
+      "filename": "operation__hikari_reward_detail__v_empty.png",
+      "captured_at": "2026-02-06T12:57:42.097046",
+      "url_pattern": "/hikari/reward_detail",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/billing/reward_detail.html"
+    },
+    "operation__hikari_switching__v_empty": {
+      "filename": "operation__hikari_switching__v_empty.png",
+      "captured_at": "2026-02-06T12:57:43.144859",
+      "url_pattern": "/hikari/switching/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/switching/index.html"
+    },
+    "operation__hikari_turnon__v_empty": {
+      "filename": "operation__hikari_turnon__v_empty.png",
+      "captured_at": "2026-02-06T12:57:44.168822",
+      "url_pattern": "/hikari/turnon/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/turnon/index.html"
+    },
+    "operation__hikari_termination_hikari__v_empty": {
+      "filename": "operation__hikari_termination_hikari__v_empty.png",
+      "captured_at": "2026-02-06T12:57:45.212753",
+      "url_pattern": "/hikari/termination/hikari",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/termination/hikari_index.html"
+    },
+    "operation__hikari_termination_hikari_remote_support_termination__v_empty": {
+      "filename": "operation__hikari_termination_hikari_remote_support_termination__v_empty.png",
+      "captured_at": "2026-02-06T12:57:46.263891",
+      "url_pattern": "/hikari/termination/hikari_remote_support_termination",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/termination/hikari_remote_support_termination_index.html"
+    },
+    "operation__hikari_vacancy__v_empty": {
+      "filename": "operation__hikari_vacancy__v_empty.png",
+      "captured_at": "2026-02-06T12:57:47.303529",
+      "url_pattern": "/hikari/vacancy/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/vacancy/index.html"
+    },
+    "operation__hikari_rooter_delivery_info__v_empty": {
+      "filename": "operation__hikari_rooter_delivery_info__v_empty.png",
+      "captured_at": "2026-02-06T12:57:48.340288",
+      "url_pattern": "/hikari/rooter_delivery_info/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/rooter_delivery_info/index.html"
+    },
+    "operation__hikari_contract_explanatory_statement__v_empty": {
+      "filename": "operation__hikari_contract_explanatory_statement__v_empty.png",
+      "captured_at": "2026-02-06T12:57:49.389506",
+      "url_pattern": "/hikari/contract_explanatory_statement/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/contract_explanatory_statement/index.html"
+    },
+    "operation__hikari_person_verification__v_empty": {
+      "filename": "operation__hikari_person_verification__v_empty.png",
+      "captured_at": "2026-02-06T12:57:50.429414",
+      "url_pattern": "/hikari/person_verification/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/person_verification/index.html"
+    },
+    "operation__hikari_isp_service_order__v_empty": {
+      "filename": "operation__hikari_isp_service_order__v_empty.png",
+      "captured_at": "2026-02-06T12:57:51.471211",
+      "url_pattern": "/hikari/isp_service_order/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/hikari/isp/index.html"
+    },
+    "operation__staff_password_reset__v_error": {
+      "filename": "operation__staff_password_reset__v_error.png",
+      "captured_at": "2026-02-06T12:57:52.493806",
+      "url_pattern": "/staff/password_reset",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/staff/password_reset/password_reset.html"
+    },
+    "operation__settings_verify_change_email__v_error": {
+      "filename": "operation__settings_verify_change_email__v_error.png",
+      "captured_at": "2026-02-06T12:57:53.518226",
+      "url_pattern": "/settings/verify_change_email",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/error.html"
+    },
+    "operation__application_rakuraku_switching_entry_new__v_error": {
+      "filename": "operation__application_rakuraku_switching_entry_new__v_error.png",
+      "captured_at": "2026-02-06T12:57:54.380616",
+      "url_pattern": "/application/rakuraku_switching/entry/new/",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/application/rakuraku_switching/entry_new_form.html"
+    },
+    "operation__application_rakuraku_switching_upload__v_error": {
+      "filename": "operation__application_rakuraku_switching_upload__v_error.png",
+      "captured_at": "2026-02-06T12:57:55.255232",
+      "url_pattern": "/application/rakuraku_switching/upload/",
+      "site": "operation",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "operation/application/rakuraku_switching/entry_new_form.html"
+    },
+    "operation__application_payment_registration_requirement__v_empty": {
+      "filename": "operation__application_payment_registration_requirement__v_empty.png",
+      "captured_at": "2026-02-06T12:57:56.302407",
+      "url_pattern": "/application/payment_registration_requirement/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/application/payment_registration_requirement/index.html"
+    },
+    "operation__demand_response_dr_activation__v_empty": {
+      "filename": "operation__demand_response_dr_activation__v_empty.png",
+      "captured_at": "2026-02-06T12:57:57.334280",
+      "url_pattern": "/demand_response/dr_activation/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/demand_response/dr_activation/index.html"
+    },
+    "operation__kurashi_support_psupo__v_empty": {
+      "filename": "operation__kurashi_support_psupo__v_empty.png",
+      "captured_at": "2026-02-06T12:57:58.379372",
+      "url_pattern": "/kurashi_support/psupo/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/kurashi_support/psupo/index.html"
+    },
+    "operation__kurashi_support_psupo__v_processing": {
+      "filename": "operation__kurashi_support_psupo__v_processing.png",
+      "captured_at": "2026-02-06T12:57:59.436609",
+      "url_pattern": "/kurashi_support/psupo/",
+      "site": "operation",
+      "variation_id": "processing",
+      "variation_label": "処理中",
+      "condition": "処理中/ローディング状態",
+      "template": "operation/kurashi_support/psupo/index.html"
+    },
+    "operation__kurashi_support_psupo_param__v_processing": {
+      "filename": "operation__kurashi_support_psupo_param__v_processing.png",
+      "captured_at": "2026-02-06T12:58:00.523489",
+      "url_pattern": "/kurashi_support/psupo/<int:id>/",
+      "site": "operation",
+      "variation_id": "processing",
+      "variation_label": "処理中",
+      "condition": "処理中/ローディング状態",
+      "template": "operation/kurashi_support/psupo/detail.html"
+    },
+    "operation__kurashi_support_psupo_billings__v_empty": {
+      "filename": "operation__kurashi_support_psupo_billings__v_empty.png",
+      "captured_at": "2026-02-06T12:58:01.553016",
+      "url_pattern": "/kurashi_support/psupo/billings",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/kurashi_support/psupo/billing/index.html"
+    },
+    "operation__kurashi_support_psupo_adjustment_list__v_empty": {
+      "filename": "operation__kurashi_support_psupo_adjustment_list__v_empty.png",
+      "captured_at": "2026-02-06T12:58:02.595807",
+      "url_pattern": "/kurashi_support/psupo/adjustment_list",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/kurashi_support/psupo/billing/adjustment_list.html"
+    },
+    "operation__kurashi_support_psupo_reward_master__v_empty": {
+      "filename": "operation__kurashi_support_psupo_reward_master__v_empty.png",
+      "captured_at": "2026-02-06T12:58:03.668842",
+      "url_pattern": "/kurashi_support/psupo/reward_master",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/kurashi_support/psupo/billing/reward_master.html"
+    },
+    "operation__wifi_billings__v_empty": {
+      "filename": "operation__wifi_billings__v_empty.png",
+      "captured_at": "2026-02-06T12:58:04.724146",
+      "url_pattern": "/wifi/billings",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/billing/index.html"
+    },
+    "operation__wifi_meter_info__v_empty": {
+      "filename": "operation__wifi_meter_info__v_empty.png",
+      "captured_at": "2026-02-06T12:58:05.762538",
+      "url_pattern": "/wifi/meter_info",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/billing/meter_info.html"
+    },
+    "operation__wifi_meter_info_detail__v_empty": {
+      "filename": "operation__wifi_meter_info_detail__v_empty.png",
+      "captured_at": "2026-02-06T12:58:06.804538",
+      "url_pattern": "/wifi/meter_info_detail",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/billing/meter_info_detail.html"
+    },
+    "operation__wifi_adjustment_list__v_empty": {
+      "filename": "operation__wifi_adjustment_list__v_empty.png",
+      "captured_at": "2026-02-06T12:58:07.856997",
+      "url_pattern": "/wifi/adjustment_list",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/billing/adjustment_list.html"
+    },
+    "operation__wifi_earnings__v_empty": {
+      "filename": "operation__wifi_earnings__v_empty.png",
+      "captured_at": "2026-02-06T12:58:08.909266",
+      "url_pattern": "/wifi/earnings",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/billing/earnings.html"
+    },
+    "operation__wifi_reward_master__v_empty": {
+      "filename": "operation__wifi_reward_master__v_empty.png",
+      "captured_at": "2026-02-06T12:58:09.950036",
+      "url_pattern": "/wifi/reward_master",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/billing/reward_master.html"
+    },
+    "operation__wifi_reward_detail__v_empty": {
+      "filename": "operation__wifi_reward_detail__v_empty.png",
+      "captured_at": "2026-02-06T12:58:10.975639",
+      "url_pattern": "/wifi/reward_detail",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/billing/reward_detail.html"
+    },
+    "operation__wifi_termination__v_empty": {
+      "filename": "operation__wifi_termination__v_empty.png",
+      "captured_at": "2026-02-06T12:58:12.021216",
+      "url_pattern": "/wifi/termination/",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/wifi/termination/index.html"
+    },
+    "operation__reward_master__v_empty": {
+      "filename": "operation__reward_master__v_empty.png",
+      "captured_at": "2026-02-06T12:58:13.060974",
+      "url_pattern": "/reward/master",
+      "site": "operation",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "operation/reward/reward_master.html"
+    },
+    "user__login__v_error": {
+      "filename": "user__login__v_error.png",
+      "captured_at": "2026-02-06T12:58:14.258354",
+      "url_pattern": "/login",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/mypage/login.html"
+    },
+    "user__email_reset_valify_param__v_error": {
+      "filename": "user__email_reset_valify_param__v_error.png",
+      "captured_at": "2026-02-06T12:58:15.265958",
+      "url_pattern": "/email_reset/valify/<str:slug>",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/mypage/email_reset/valify.html"
+    },
+    "user__password_reset__v_error": {
+      "filename": "user__password_reset__v_error.png",
+      "captured_at": "2026-02-06T12:58:16.285396",
+      "url_pattern": "/password_reset",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/mypage/password_reset/password_reset.html"
+    },
+    "user__mypage__v_error": {
+      "filename": "user__mypage__v_error.png",
+      "captured_at": "2026-02-06T12:58:17.575198",
+      "url_pattern": "/mypage/",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/mypage/index.html"
+    },
+    "user__mypage_verify_email_param_done__v_error": {
+      "filename": "user__mypage_verify_email_param_done__v_error.png",
+      "captured_at": "2026-02-06T12:58:18.574839",
+      "url_pattern": "/mypage/verify_email/<str:slug>/done",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/mypage/verify_email/done.html"
+    },
+    "user__register1__v_error": {
+      "filename": "user__register1__v_error.png",
+      "captured_at": "2026-02-06T12:58:19.589445",
+      "url_pattern": "/register1",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/registration/switching/step1.html"
+    },
+    "user__smbc_result__v_error": {
+      "filename": "user__smbc_result__v_error.png",
+      "captured_at": "2026-02-06T12:58:22.098358",
+      "url_pattern": "/smbc_result",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/registration/smbc_result.html"
+    },
+    "user__smbc_error__v_error": {
+      "filename": "user__smbc_error__v_error.png",
+      "captured_at": "2026-02-06T12:58:23.453268",
+      "url_pattern": "/smbc_error",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/registration/smbc_result.html"
+    },
+    "user__mypage_profile_change_payment_card__v_error": {
+      "filename": "user__mypage_profile_change_payment_card__v_error.png",
+      "captured_at": "2026-02-06T12:58:24.440377",
+      "url_pattern": "/mypage/profile/change_payment_card",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/mypage/profile/change_payment/card.html"
+    },
+    "user__mypage_profile_gmo_result__v_error": {
+      "filename": "user__mypage_profile_gmo_result__v_error.png",
+      "captured_at": "2026-02-06T12:58:25.511913",
+      "url_pattern": "/mypage/profile/gmo_result",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/mypage/profile/change_payment/gmo_result.html"
+    },
+    "user__mypage_subscriptions__v_empty": {
+      "filename": "user__mypage_subscriptions__v_empty.png",
+      "captured_at": "2026-02-06T12:58:26.539500",
+      "url_pattern": "/mypage/subscriptions/",
+      "site": "user",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "user/mypage/subscription/index.html"
+    },
+    "user__mypage_news__v_empty": {
+      "filename": "user__mypage_news__v_empty.png",
+      "captured_at": "2026-02-06T12:58:27.521264",
+      "url_pattern": "/mypage/news/",
+      "site": "user",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "user/mypage/news/index.html"
+    },
+    "user__mypage_point_use_gift_log__v_empty": {
+      "filename": "user__mypage_point_use_gift_log__v_empty.png",
+      "captured_at": "2026-02-06T12:58:28.681825",
+      "url_pattern": "/mypage/point/use/gift/log/",
+      "site": "user",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "user/mypage/point/gift_log.html"
+    },
+    "user__mypage_point_use_coupon_log__v_empty": {
+      "filename": "user__mypage_point_use_coupon_log__v_empty.png",
+      "captured_at": "2026-02-06T12:58:29.735382",
+      "url_pattern": "/mypage/point/use/coupon/log/",
+      "site": "user",
+      "variation_id": "empty",
+      "variation_label": "空データ",
+      "condition": "データなし/リスト空状態",
+      "template": "user/mypage/point/coupon_log.html"
+    },
+    "user__rakuraku_switching_upload__v_current_step_1": {
+      "filename": "user__rakuraku_switching_upload__v_current_step_1.png",
+      "captured_at": "2026-02-06T12:58:30.753811",
+      "url_pattern": "/rakuraku_switching/upload/",
+      "site": "user",
+      "variation_id": "current_step_1",
+      "variation_label": "STEP1",
+      "condition": "current_step == 1",
+      "template": "user/rakuraku_switching/step1.html"
+    },
+    "user__rakuraku_switching_step1__v_current_step_1": {
+      "filename": "user__rakuraku_switching_step1__v_current_step_1.png",
+      "captured_at": "2026-02-06T12:58:31.803483",
+      "url_pattern": "/rakuraku_switching/step1/",
+      "site": "user",
+      "variation_id": "current_step_1",
+      "variation_label": "STEP1",
+      "condition": "current_step == 1",
+      "template": "user/rakuraku_switching/step1.html"
+    },
+    "user__rakuraku_switching_step1_param_point_param_add__v_current_step_1": {
+      "filename": "user__rakuraku_switching_step1_param_point_param_add__v_current_step_1.png",
+      "captured_at": "2026-02-06T12:58:32.825810",
+      "url_pattern": "/rakuraku_switching/step1/<slug:slug>/point/<int:sequence_number>/add/",
+      "site": "user",
+      "variation_id": "current_step_1",
+      "variation_label": "STEP1",
+      "condition": "current_step == 1",
+      "template": "user/rakuraku_switching/step1.html"
+    },
+    "user__rakuraku_switching_step2_param__v_current_step_2": {
+      "filename": "user__rakuraku_switching_step2_param__v_current_step_2.png",
+      "captured_at": "2026-02-06T12:58:33.788693",
+      "url_pattern": "/rakuraku_switching/step2/<slug:slug>/",
+      "site": "user",
+      "variation_id": "current_step_2",
+      "variation_label": "STEP2",
+      "condition": "current_step == 2",
+      "template": "user/rakuraku_switching/step2.html"
+    },
+    "user__rakuraku_switching_step3_param__v_current_step_3": {
+      "filename": "user__rakuraku_switching_step3_param__v_current_step_3.png",
+      "captured_at": "2026-02-06T12:58:35.913585",
+      "url_pattern": "/rakuraku_switching/step3/<slug:slug>/",
+      "site": "user",
+      "variation_id": "current_step_3",
+      "variation_label": "STEP3",
+      "condition": "current_step == 3",
+      "template": "user/rakuraku_switching/step3.html"
+    },
+    "user__rakuraku_switching_step4_param__v_current_step_4": {
+      "filename": "user__rakuraku_switching_step4_param__v_current_step_4.png",
+      "captured_at": "2026-02-06T12:58:36.970817",
+      "url_pattern": "/rakuraku_switching/step4/<slug:slug>/",
+      "site": "user",
+      "variation_id": "current_step_4",
+      "variation_label": "STEP4",
+      "condition": "current_step == 4",
+      "template": "user/rakuraku_switching/step4.html"
+    },
+    "user__sending_customer_confirm__v_error": {
+      "filename": "user__sending_customer_confirm__v_error.png",
+      "captured_at": "2026-02-06T12:58:37.969955",
+      "url_pattern": "/sending_customer/confirm",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/sending_customer/confirm.html"
+    },
+    "user__turnon1_v2__v_error": {
+      "filename": "user__turnon1_v2__v_error.png",
+      "captured_at": "2026-02-06T12:58:40.750345",
+      "url_pattern": "/turnon1_v2",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/registration/turnon_new/turnon1_v2.html"
+    },
+    "user__turnon1_kenedix_v2__v_error": {
+      "filename": "user__turnon1_kenedix_v2__v_error.png",
+      "captured_at": "2026-02-06T12:58:42.030121",
+      "url_pattern": "/turnon1_kenedix_v2",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/registration/turnon_new/turnon1_kenedix_v2.html"
+    },
+    "user__turnon2_v2__v_current_step_2": {
+      "filename": "user__turnon2_v2__v_current_step_2.png",
+      "captured_at": "2026-02-06T12:58:43.421124",
+      "url_pattern": "/turnon2_v2",
+      "site": "user",
+      "variation_id": "current_step_2",
+      "variation_label": "STEP2",
+      "condition": "current_step == 2",
+      "template": "user/registration/turnon_new/turnon2_v2.html"
+    },
+    "user__turnon2_v2__v_error": {
+      "filename": "user__turnon2_v2__v_error.png",
+      "captured_at": "2026-02-06T12:58:44.836364",
+      "url_pattern": "/turnon2_v2",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/registration/turnon_new/turnon2_v2.html"
+    },
+    "user__turnon3_v2__v_current_step_3": {
+      "filename": "user__turnon3_v2__v_current_step_3.png",
+      "captured_at": "2026-02-06T12:58:46.173163",
+      "url_pattern": "/turnon3_v2",
+      "site": "user",
+      "variation_id": "current_step_3",
+      "variation_label": "STEP3",
+      "condition": "current_step == 3",
+      "template": "user/registration/turnon_new/turnon3_v2.html"
+    },
+    "user__turnon4_v2__v_current_step_4": {
+      "filename": "user__turnon4_v2__v_current_step_4.png",
+      "captured_at": "2026-02-06T12:58:47.926327",
+      "url_pattern": "/turnon4_v2",
+      "site": "user",
+      "variation_id": "current_step_4",
+      "variation_label": "STEP4",
+      "condition": "current_step == 4",
+      "template": "user/registration/turnon_new/turnon4_v2.html"
+    },
+    "user__turnon4_v2__v_error": {
+      "filename": "user__turnon4_v2__v_error.png",
+      "captured_at": "2026-02-06T12:58:49.695301",
+      "url_pattern": "/turnon4_v2",
+      "site": "user",
+      "variation_id": "error",
+      "variation_label": "エラー",
+      "condition": "フォームエラー/バリデーションエラー表示",
+      "template": "user/registration/turnon_new/turnon4_v2.html"
+    },
+    "user__turnon5_v2__v_current_step_5": {
+      "filename": "user__turnon5_v2__v_current_step_5.png",
+      "captured_at": "2026-02-06T12:58:51.093590",
+      "url_pattern": "/turnon5_v2",
+      "site": "user",
+      "variation_id": "current_step_5",
+      "variation_label": "STEP5",
+      "condition": "current_step == 5",
+      "template": "user/registration/turnon_new/turnon5_v2.html"
+    }
+  }
+}
